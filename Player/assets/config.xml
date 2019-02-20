@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <Notes></Notes>
+  <!-- LogLevel: Trace, Debug, Info, Warn, Error, Fatal
+        Use Error for production deployments
+        Use Info or higher for QA / internal development
+    -->
+  <LogLevel>Trace</LogLevel>
+  <!-- LogFilters are not implemented yet -->
+  <LogFilters>
+    <Filter>*</Filter>
+  </LogFilters>
+  <!-- Imported from current flash config -->
+  <WarningTime>600000</WarningTime>
+  <PageNumberLevel>IMI_LEVEL</PageNumberLevel>
+  <MaxCourseMapLevel>ELO_LEVEL</MaxCourseMapLevel>
+  <!-- Currently only ELO_LEVEL works -->
+  <EnableBreadcrumb>true</EnableBreadcrumb>
+  <LockProgress>true</LockProgress>
+  <IsPreview>true</IsPreview>
+  <LMSCharMax>250</LMSCharMax>
+  <PlayerWidth>1280</PlayerWidth>
+  <PlayerHeight>720</PlayerHeight>
+  <PlayerCode>HTML_PLAYER_1280x720</PlayerCode>
+</config>

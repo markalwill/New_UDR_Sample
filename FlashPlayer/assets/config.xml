@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <Notes></Notes>
+    <!-- 
+    LogLevel:  ALL / DEBUG / INFO / WARN / ERROR / FATAL / NONE
+        Use NONE for production deployments - also disables DIFDebugger and ` key
+        Use INFO or higher for QA / internal development
+    -->
+    <LogLevel>ALL</LogLevel>
+    <LogFilters>
+        <Filter>*</Filter>
+    </LogFilters>
+    <WarningTime>600000</WarningTime>
+    <PageNumberLevel>IMI_LEVEL</PageNumberLevel>
+    <MaxCourseMapLevel>ELO_LEVEL</MaxCourseMapLevel>    <!-- Currently only ELO_LEVEL works -->
+    <EnableBreadcrumb>true</EnableBreadcrumb>
+    <LockProgress>false</LockProgress>
+</config>

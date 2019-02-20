@@ -1,0 +1,2736 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ReviewerResponse>
+  <RequestProcessStatus>Succeed</RequestProcessStatus>
+  <Responses>
+    <Response Name="LoadEditScreen">
+      <Page PageID="33746" TemplateID="6000699" TemplateTypeID="0" PageName="Capabilities and Limitations" PageDesc="New Page">
+        <Layout>
+          <ElementContainer ElementID="6241317" IsProperty="false">
+            <Value><![CDATA[]]></Value>
+            <Name ElementID="201" IsProperty="true">
+              <Value><![CDATA[ElementContainer]]></Value>
+            </Name>
+            <Visible ElementID="430" IsProperty="true">
+              <Value><![CDATA[true]]></Value>
+            </Visible>
+            <Alpha ElementID="732" IsProperty="true">
+              <Value><![CDATA[1]]></Value>
+            </Alpha>
+            <ContentWindow ElementID="6241319" IsProperty="false">
+              <Value><![CDATA[]]></Value>
+              <InitFocus ElementID="193" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </InitFocus>
+              <Name ElementID="194" IsProperty="true">
+                <Value><![CDATA[ContentWindow]]></Value>
+              </Name>
+              <Actions ElementID="199" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Actions>
+              <BackgroundColor ElementID="321" IsProperty="true">
+                <Value><![CDATA[0xFFFFFF]]></Value>
+              </BackgroundColor>
+              <BorderColor ElementID="323" IsProperty="true">
+                <Value><![CDATA[0x000000]]></Value>
+              </BorderColor>
+              <Visible ElementID="429" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </Visible>
+              <Alpha ElementID="731" IsProperty="true">
+                <Value><![CDATA[1]]></Value>
+              </Alpha>
+              <BorderAlpha ElementID="6241320" IsProperty="true">
+                <Value><![CDATA[0]]></Value>
+              </BorderAlpha>
+              <BackgroundAlpha ElementID="6241321" IsProperty="true">
+                <Value><![CDATA[0]]></Value>
+              </BackgroundAlpha>
+              <Z ElementID="6241322" IsProperty="true">
+                <Value><![CDATA[1]]></Value>
+              </Z>
+              <Y ElementID="6241323" IsProperty="true">
+                <Value><![CDATA[-1]]></Value>
+              </Y>
+              <X ElementID="6241324" IsProperty="true">
+                <Value><![CDATA[-1]]></Value>
+              </X>
+              <Width ElementID="6241325" IsProperty="true">
+                <Value><![CDATA[1281]]></Value>
+              </Width>
+              <Height ElementID="6241326" IsProperty="true">
+                <Value><![CDATA[645]]></Value>
+              </Height>
+              <TextBox ElementID="19795183" IsProperty="false">
+                <Value><![CDATA[]]></Value>
+                <Z ElementID="5" IsProperty="true">
+                  <Value><![CDATA[0]]></Value>
+                </Z>
+                <Font ElementID="9" IsProperty="true">
+                  <Value><![CDATA[Arial]]></Value>
+                </Font>
+                <FontColor ElementID="11" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </FontColor>
+                <Size ElementID="12" IsProperty="true">
+                  <Value><![CDATA[14]]></Value>
+                </Size>
+                <Bold ElementID="13" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Bold>
+                <Italic ElementID="14" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Italic>
+                <Underline ElementID="15" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Underline>
+                <Color ElementID="16" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </Color>
+                <Justify ElementID="17" IsProperty="true">
+                  <Value><![CDATA[Left]]></Value>
+                </Justify>
+                <_URLThumbnail ElementID="18" IsProperty="true">
+                  <Value><![CDATA[Content/TextBox.png]]></Value>
+                </_URLThumbnail>
+                <BorderColor ElementID="19" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </BorderColor>
+                <BackgroundColor ElementID="21" IsProperty="true">
+                  <Value><![CDATA[0xFFFFFF]]></Value>
+                </BackgroundColor>
+                <Editable ElementID="23" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Editable>
+                <Selectable ElementID="24" IsProperty="true">
+                  <Value><![CDATA[true]]></Value>
+                </Selectable>
+                <Bullet ElementID="25" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Bullet>
+                <Multiline ElementID="26" IsProperty="true">
+                  <Value><![CDATA[true]]></Value>
+                </Multiline>
+                <CorrectText ElementID="27" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </CorrectText>
+                <CheckCase ElementID="28" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </CheckCase>
+                <MaxChars ElementID="29" IsProperty="true">
+                  <Value><![CDATA[0x7FFFFFFF]]></Value>
+                </MaxChars>
+                <Alignment ElementID="30" IsProperty="true">
+                  <Value><![CDATA[left]]></Value>
+                </Alignment>
+                <Actions ElementID="31" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Actions>
+                <Margin ElementID="335" IsProperty="true">
+                  <Value><![CDATA[0]]></Value>
+                </Margin>
+                <_URL ElementID="415" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </_URL>
+                <AssetID ElementID="416" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </AssetID>
+                <AssetRevisionID ElementID="417" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </AssetRevisionID>
+                <Events ElementID="594" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Event ElementID="595" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="596" IsProperty="true">
+                      <Value><![CDATA[OnClick]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="597" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="598" IsProperty="true">
+                      <Value><![CDATA[OnDoubleClick]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="599" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="600" IsProperty="true">
+                      <Value><![CDATA[OnChange]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="601" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="602" IsProperty="true">
+                      <Value><![CDATA[OnFocus]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="603" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="604" IsProperty="true">
+                      <Value><![CDATA[OnFocusLost]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="605" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="606" IsProperty="true">
+                      <Value><![CDATA[OnMouseOut]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="607" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="608" IsProperty="true">
+                      <Value><![CDATA[OnMouseOver]]></Value>
+                    </Trigger>
+                  </Event>
+                </Events>
+                <Focus ElementID="652" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Focus>
+                <MouseOver ElementID="653" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </MouseOver>
+                <Alpha ElementID="721" IsProperty="true">
+                  <Value><![CDATA[1]]></Value>
+                </Alpha>
+                <Background ElementID="19795184" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Background>
+                <Border ElementID="19795185" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Border>
+                <FontSize ElementID="19795186" IsProperty="true">
+                  <Value><![CDATA[28]]></Value>
+                </FontSize>
+                <Text ElementID="19795187" IsProperty="true">
+                  <Value><![CDATA[<HTML><BODY><UL><LI><FONT FACE="Arial" SIZE="28" COLOR="#000000" LETTERSPACING="0" KERNING="1">Measures and displays .001 to 350 cGy/hr Gamma radiation dose rate</FONT></LI></UL></BODY></HTML>]]></Value>
+                </Text>
+                <Height ElementID="19795188" IsProperty="true">
+                  <Value><![CDATA[80]]></Value>
+                </Height>
+                <Width ElementID="19795189" IsProperty="true">
+                  <Value><![CDATA[650]]></Value>
+                </Width>
+                <Y ElementID="19795190" IsProperty="true">
+                  <Value><![CDATA[110]]></Value>
+                </Y>
+                <X ElementID="19795191" IsProperty="true">
+                  <Value><![CDATA[40]]></Value>
+                </X>
+                <Name ElementID="19795222" IsProperty="true">
+                  <Value><![CDATA[T_1]]></Value>
+                </Name>
+                <Visible ElementID="19813504" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Visible>
+              </TextBox>
+              <TextBox ElementID="19795193" IsProperty="false">
+                <Value><![CDATA[]]></Value>
+                <Font ElementID="9" IsProperty="true">
+                  <Value><![CDATA[Arial]]></Value>
+                </Font>
+                <FontColor ElementID="11" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </FontColor>
+                <Size ElementID="12" IsProperty="true">
+                  <Value><![CDATA[14]]></Value>
+                </Size>
+                <Bold ElementID="13" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Bold>
+                <Italic ElementID="14" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Italic>
+                <Underline ElementID="15" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Underline>
+                <Color ElementID="16" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </Color>
+                <Justify ElementID="17" IsProperty="true">
+                  <Value><![CDATA[Left]]></Value>
+                </Justify>
+                <_URLThumbnail ElementID="18" IsProperty="true">
+                  <Value><![CDATA[Content/TextBox.png]]></Value>
+                </_URLThumbnail>
+                <BorderColor ElementID="19" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </BorderColor>
+                <BackgroundColor ElementID="21" IsProperty="true">
+                  <Value><![CDATA[0xFFFFFF]]></Value>
+                </BackgroundColor>
+                <Editable ElementID="23" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Editable>
+                <Selectable ElementID="24" IsProperty="true">
+                  <Value><![CDATA[true]]></Value>
+                </Selectable>
+                <Bullet ElementID="25" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Bullet>
+                <Multiline ElementID="26" IsProperty="true">
+                  <Value><![CDATA[true]]></Value>
+                </Multiline>
+                <CorrectText ElementID="27" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </CorrectText>
+                <CheckCase ElementID="28" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </CheckCase>
+                <MaxChars ElementID="29" IsProperty="true">
+                  <Value><![CDATA[0x7FFFFFFF]]></Value>
+                </MaxChars>
+                <Alignment ElementID="30" IsProperty="true">
+                  <Value><![CDATA[left]]></Value>
+                </Alignment>
+                <Actions ElementID="31" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Actions>
+                <Margin ElementID="335" IsProperty="true">
+                  <Value><![CDATA[0]]></Value>
+                </Margin>
+                <_URL ElementID="415" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </_URL>
+                <AssetID ElementID="416" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </AssetID>
+                <AssetRevisionID ElementID="417" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </AssetRevisionID>
+                <Events ElementID="594" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Event ElementID="595" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="596" IsProperty="true">
+                      <Value><![CDATA[OnClick]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="597" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="598" IsProperty="true">
+                      <Value><![CDATA[OnDoubleClick]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="599" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="600" IsProperty="true">
+                      <Value><![CDATA[OnChange]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="601" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="602" IsProperty="true">
+                      <Value><![CDATA[OnFocus]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="603" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="604" IsProperty="true">
+                      <Value><![CDATA[OnFocusLost]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="605" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="606" IsProperty="true">
+                      <Value><![CDATA[OnMouseOut]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="607" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="608" IsProperty="true">
+                      <Value><![CDATA[OnMouseOver]]></Value>
+                    </Trigger>
+                  </Event>
+                </Events>
+                <Focus ElementID="652" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Focus>
+                <MouseOver ElementID="653" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </MouseOver>
+                <Alpha ElementID="721" IsProperty="true">
+                  <Value><![CDATA[1]]></Value>
+                </Alpha>
+                <Z ElementID="19795194" IsProperty="true">
+                  <Value><![CDATA[1]]></Value>
+                </Z>
+                <Background ElementID="19795195" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Background>
+                <Border ElementID="19795196" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Border>
+                <FontSize ElementID="19795197" IsProperty="true">
+                  <Value><![CDATA[28]]></Value>
+                </FontSize>
+                <Text ElementID="19795198" IsProperty="true">
+                  <Value><![CDATA[<HTML><BODY><UL><LI><FONT FACE="Arial" SIZE="28" COLOR="#000000" LETTERSPACING="0" KERNING="1">The Radiacmeter can measure, store, and display an accumulated Dose from .001 to 999 cGy/hr </FONT></LI></UL></BODY></HTML>]]></Value>
+                </Text>
+                <Height ElementID="19795199" IsProperty="true">
+                  <Value><![CDATA[76]]></Value>
+                </Height>
+                <Width ElementID="19795200" IsProperty="true">
+                  <Value><![CDATA[679]]></Value>
+                </Width>
+                <Y ElementID="19795201" IsProperty="true">
+                  <Value><![CDATA[188]]></Value>
+                </Y>
+                <X ElementID="19795202" IsProperty="true">
+                  <Value><![CDATA[40]]></Value>
+                </X>
+                <Name ElementID="19795223" IsProperty="true">
+                  <Value><![CDATA[T_2]]></Value>
+                </Name>
+                <Visible ElementID="19813505" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Visible>
+              </TextBox>
+              <TextBox ElementID="19795203" IsProperty="false">
+                <Value><![CDATA[]]></Value>
+                <Font ElementID="9" IsProperty="true">
+                  <Value><![CDATA[Arial]]></Value>
+                </Font>
+                <FontColor ElementID="11" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </FontColor>
+                <Size ElementID="12" IsProperty="true">
+                  <Value><![CDATA[14]]></Value>
+                </Size>
+                <Bold ElementID="13" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Bold>
+                <Italic ElementID="14" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Italic>
+                <Underline ElementID="15" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Underline>
+                <Color ElementID="16" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </Color>
+                <Justify ElementID="17" IsProperty="true">
+                  <Value><![CDATA[Left]]></Value>
+                </Justify>
+                <_URLThumbnail ElementID="18" IsProperty="true">
+                  <Value><![CDATA[Content/TextBox.png]]></Value>
+                </_URLThumbnail>
+                <BorderColor ElementID="19" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </BorderColor>
+                <BackgroundColor ElementID="21" IsProperty="true">
+                  <Value><![CDATA[0xFFFFFF]]></Value>
+                </BackgroundColor>
+                <Editable ElementID="23" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Editable>
+                <Selectable ElementID="24" IsProperty="true">
+                  <Value><![CDATA[true]]></Value>
+                </Selectable>
+                <Bullet ElementID="25" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Bullet>
+                <Multiline ElementID="26" IsProperty="true">
+                  <Value><![CDATA[true]]></Value>
+                </Multiline>
+                <CorrectText ElementID="27" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </CorrectText>
+                <CheckCase ElementID="28" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </CheckCase>
+                <MaxChars ElementID="29" IsProperty="true">
+                  <Value><![CDATA[0x7FFFFFFF]]></Value>
+                </MaxChars>
+                <Alignment ElementID="30" IsProperty="true">
+                  <Value><![CDATA[left]]></Value>
+                </Alignment>
+                <Actions ElementID="31" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Actions>
+                <Margin ElementID="335" IsProperty="true">
+                  <Value><![CDATA[0]]></Value>
+                </Margin>
+                <_URL ElementID="415" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </_URL>
+                <AssetID ElementID="416" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </AssetID>
+                <AssetRevisionID ElementID="417" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </AssetRevisionID>
+                <Events ElementID="594" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Event ElementID="595" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="596" IsProperty="true">
+                      <Value><![CDATA[OnClick]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="597" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="598" IsProperty="true">
+                      <Value><![CDATA[OnDoubleClick]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="599" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="600" IsProperty="true">
+                      <Value><![CDATA[OnChange]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="601" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="602" IsProperty="true">
+                      <Value><![CDATA[OnFocus]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="603" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="604" IsProperty="true">
+                      <Value><![CDATA[OnFocusLost]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="605" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="606" IsProperty="true">
+                      <Value><![CDATA[OnMouseOut]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="607" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="608" IsProperty="true">
+                      <Value><![CDATA[OnMouseOver]]></Value>
+                    </Trigger>
+                  </Event>
+                </Events>
+                <Focus ElementID="652" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Focus>
+                <MouseOver ElementID="653" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </MouseOver>
+                <Alpha ElementID="721" IsProperty="true">
+                  <Value><![CDATA[1]]></Value>
+                </Alpha>
+                <Name ElementID="19795204" IsProperty="true">
+                  <Value><![CDATA[T_3]]></Value>
+                </Name>
+                <Z ElementID="19795205" IsProperty="true">
+                  <Value><![CDATA[2]]></Value>
+                </Z>
+                <Background ElementID="19795206" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Background>
+                <Border ElementID="19795207" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Border>
+                <FontSize ElementID="19795208" IsProperty="true">
+                  <Value><![CDATA[28]]></Value>
+                </FontSize>
+                <Text ElementID="19795209" IsProperty="true">
+                  <Value><![CDATA[<HTML><BODY><UL><LI><FONT FACE="Arial" SIZE="28" COLOR="#000000" LETTERSPACING="0" KERNING="1">Alarm capability for Dose and Dose Rate</FONT></LI></UL></BODY></HTML>]]></Value>
+                </Text>
+                <Height ElementID="19795210" IsProperty="true">
+                  <Value><![CDATA[40]]></Value>
+                </Height>
+                <Width ElementID="19795211" IsProperty="true">
+                  <Value><![CDATA[700]]></Value>
+                </Width>
+                <Y ElementID="19795212" IsProperty="true">
+                  <Value><![CDATA[268]]></Value>
+                </Y>
+                <X ElementID="19795213" IsProperty="true">
+                  <Value><![CDATA[40]]></Value>
+                </X>
+                <Visible ElementID="19813506" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Visible>
+              </TextBox>
+              <TextBox ElementID="19795225" IsProperty="false">
+                <Value><![CDATA[]]></Value>
+                <Font ElementID="9" IsProperty="true">
+                  <Value><![CDATA[Arial]]></Value>
+                </Font>
+                <FontColor ElementID="11" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </FontColor>
+                <Size ElementID="12" IsProperty="true">
+                  <Value><![CDATA[14]]></Value>
+                </Size>
+                <Bold ElementID="13" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Bold>
+                <Italic ElementID="14" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Italic>
+                <Underline ElementID="15" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Underline>
+                <Color ElementID="16" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </Color>
+                <Justify ElementID="17" IsProperty="true">
+                  <Value><![CDATA[Left]]></Value>
+                </Justify>
+                <_URLThumbnail ElementID="18" IsProperty="true">
+                  <Value><![CDATA[Content/TextBox.png]]></Value>
+                </_URLThumbnail>
+                <BorderColor ElementID="19" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </BorderColor>
+                <BackgroundColor ElementID="21" IsProperty="true">
+                  <Value><![CDATA[0xFFFFFF]]></Value>
+                </BackgroundColor>
+                <Editable ElementID="23" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Editable>
+                <Selectable ElementID="24" IsProperty="true">
+                  <Value><![CDATA[true]]></Value>
+                </Selectable>
+                <Bullet ElementID="25" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Bullet>
+                <Multiline ElementID="26" IsProperty="true">
+                  <Value><![CDATA[true]]></Value>
+                </Multiline>
+                <CorrectText ElementID="27" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </CorrectText>
+                <CheckCase ElementID="28" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </CheckCase>
+                <MaxChars ElementID="29" IsProperty="true">
+                  <Value><![CDATA[0x7FFFFFFF]]></Value>
+                </MaxChars>
+                <Alignment ElementID="30" IsProperty="true">
+                  <Value><![CDATA[left]]></Value>
+                </Alignment>
+                <Actions ElementID="31" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Actions>
+                <Margin ElementID="335" IsProperty="true">
+                  <Value><![CDATA[0]]></Value>
+                </Margin>
+                <_URL ElementID="415" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </_URL>
+                <AssetID ElementID="416" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </AssetID>
+                <AssetRevisionID ElementID="417" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </AssetRevisionID>
+                <Events ElementID="594" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Event ElementID="595" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="596" IsProperty="true">
+                      <Value><![CDATA[OnClick]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="597" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="598" IsProperty="true">
+                      <Value><![CDATA[OnDoubleClick]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="599" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="600" IsProperty="true">
+                      <Value><![CDATA[OnChange]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="601" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="602" IsProperty="true">
+                      <Value><![CDATA[OnFocus]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="603" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="604" IsProperty="true">
+                      <Value><![CDATA[OnFocusLost]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="605" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="606" IsProperty="true">
+                      <Value><![CDATA[OnMouseOut]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="607" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="608" IsProperty="true">
+                      <Value><![CDATA[OnMouseOver]]></Value>
+                    </Trigger>
+                  </Event>
+                </Events>
+                <Focus ElementID="652" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Focus>
+                <MouseOver ElementID="653" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </MouseOver>
+                <Alpha ElementID="721" IsProperty="true">
+                  <Value><![CDATA[1]]></Value>
+                </Alpha>
+                <Name ElementID="19795226" IsProperty="true">
+                  <Value><![CDATA[T_4]]></Value>
+                </Name>
+                <Z ElementID="19795227" IsProperty="true">
+                  <Value><![CDATA[3]]></Value>
+                </Z>
+                <Background ElementID="19795228" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Background>
+                <Border ElementID="19795229" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Border>
+                <FontSize ElementID="19795230" IsProperty="true">
+                  <Value><![CDATA[28]]></Value>
+                </FontSize>
+                <Text ElementID="19795231" IsProperty="true">
+                  <Value><![CDATA[<HTML><BODY><UL><LI><FONT FACE="Arial" SIZE="28" COLOR="#000000" LETTERSPACING="0" KERNING="1">Accuracy is rated at plus or minus 20% of True Dose and Dose Rate </FONT></LI></UL></BODY></HTML>]]></Value>
+                </Text>
+                <Height ElementID="19795232" IsProperty="true">
+                  <Value><![CDATA[80]]></Value>
+                </Height>
+                <Width ElementID="19795233" IsProperty="true">
+                  <Value><![CDATA[645]]></Value>
+                </Width>
+                <Y ElementID="19795234" IsProperty="true">
+                  <Value><![CDATA[309]]></Value>
+                </Y>
+                <X ElementID="19795235" IsProperty="true">
+                  <Value><![CDATA[40]]></Value>
+                </X>
+                <Visible ElementID="19813507" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Visible>
+              </TextBox>
+              <TextBox ElementID="19795236" IsProperty="false">
+                <Value><![CDATA[]]></Value>
+                <Font ElementID="9" IsProperty="true">
+                  <Value><![CDATA[Arial]]></Value>
+                </Font>
+                <FontColor ElementID="11" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </FontColor>
+                <Size ElementID="12" IsProperty="true">
+                  <Value><![CDATA[14]]></Value>
+                </Size>
+                <Bold ElementID="13" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Bold>
+                <Italic ElementID="14" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Italic>
+                <Underline ElementID="15" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Underline>
+                <Color ElementID="16" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </Color>
+                <Justify ElementID="17" IsProperty="true">
+                  <Value><![CDATA[Left]]></Value>
+                </Justify>
+                <_URLThumbnail ElementID="18" IsProperty="true">
+                  <Value><![CDATA[Content/TextBox.png]]></Value>
+                </_URLThumbnail>
+                <BorderColor ElementID="19" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </BorderColor>
+                <BackgroundColor ElementID="21" IsProperty="true">
+                  <Value><![CDATA[0xFFFFFF]]></Value>
+                </BackgroundColor>
+                <Editable ElementID="23" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Editable>
+                <Selectable ElementID="24" IsProperty="true">
+                  <Value><![CDATA[true]]></Value>
+                </Selectable>
+                <Bullet ElementID="25" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Bullet>
+                <Multiline ElementID="26" IsProperty="true">
+                  <Value><![CDATA[true]]></Value>
+                </Multiline>
+                <CorrectText ElementID="27" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </CorrectText>
+                <CheckCase ElementID="28" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </CheckCase>
+                <MaxChars ElementID="29" IsProperty="true">
+                  <Value><![CDATA[0x7FFFFFFF]]></Value>
+                </MaxChars>
+                <Alignment ElementID="30" IsProperty="true">
+                  <Value><![CDATA[left]]></Value>
+                </Alignment>
+                <Actions ElementID="31" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Actions>
+                <Margin ElementID="335" IsProperty="true">
+                  <Value><![CDATA[0]]></Value>
+                </Margin>
+                <_URL ElementID="415" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </_URL>
+                <AssetID ElementID="416" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </AssetID>
+                <AssetRevisionID ElementID="417" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </AssetRevisionID>
+                <Events ElementID="594" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Event ElementID="595" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="596" IsProperty="true">
+                      <Value><![CDATA[OnClick]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="597" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="598" IsProperty="true">
+                      <Value><![CDATA[OnDoubleClick]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="599" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="600" IsProperty="true">
+                      <Value><![CDATA[OnChange]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="601" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="602" IsProperty="true">
+                      <Value><![CDATA[OnFocus]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="603" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="604" IsProperty="true">
+                      <Value><![CDATA[OnFocusLost]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="605" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="606" IsProperty="true">
+                      <Value><![CDATA[OnMouseOut]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="607" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="608" IsProperty="true">
+                      <Value><![CDATA[OnMouseOver]]></Value>
+                    </Trigger>
+                  </Event>
+                </Events>
+                <Focus ElementID="652" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Focus>
+                <MouseOver ElementID="653" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </MouseOver>
+                <Alpha ElementID="721" IsProperty="true">
+                  <Value><![CDATA[1]]></Value>
+                </Alpha>
+                <Name ElementID="19795237" IsProperty="true">
+                  <Value><![CDATA[T_5]]></Value>
+                </Name>
+                <Z ElementID="19795238" IsProperty="true">
+                  <Value><![CDATA[4]]></Value>
+                </Z>
+                <Background ElementID="19795239" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Background>
+                <Border ElementID="19795240" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Border>
+                <FontSize ElementID="19795241" IsProperty="true">
+                  <Value><![CDATA[28]]></Value>
+                </FontSize>
+                <Text ElementID="19795242" IsProperty="true">
+                  <Value><![CDATA[<HTML><BODY><UL><LI><FONT FACE="Arial" SIZE="28" COLOR="#000000" LETTERSPACING="0" KERNING="1">Possesses a 'Sleep Mode' with an automatic wake-up capability</FONT></LI></UL></BODY></HTML>]]></Value>
+                </Text>
+                <Height ElementID="19795243" IsProperty="true">
+                  <Value><![CDATA[80]]></Value>
+                </Height>
+                <Width ElementID="19795244" IsProperty="true">
+                  <Value><![CDATA[660]]></Value>
+                </Width>
+                <Y ElementID="19795245" IsProperty="true">
+                  <Value><![CDATA[388]]></Value>
+                </Y>
+                <X ElementID="19795246" IsProperty="true">
+                  <Value><![CDATA[40]]></Value>
+                </X>
+                <Visible ElementID="19813508" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Visible>
+              </TextBox>
+              <Audio ElementID="19820790" IsProperty="false">
+                <Value><![CDATA[]]></Value>
+                <Width ElementID="133" IsProperty="true">
+                  <Value><![CDATA[100]]></Value>
+                </Width>
+                <Height ElementID="134" IsProperty="true">
+                  <Value><![CDATA[100]]></Value>
+                </Height>
+                <Actions ElementID="136" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Actions>
+                <AutoPlay ElementID="137" IsProperty="true">
+                  <Value><![CDATA[true]]></Value>
+                </AutoPlay>
+                <DisplayControls ElementID="138" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </DisplayControls>
+                <DisplayIcon ElementID="139" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </DisplayIcon>
+                <ClickToPlay ElementID="140" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </ClickToPlay>
+                <Transcript ElementID="141" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Transcript>
+                <Description ElementID="272" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Description>
+                <IsAutoUpdate ElementID="357" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </IsAutoUpdate>
+                <_URLmp3 ElementID="396" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </_URLmp3>
+                <_URLwav ElementID="397" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </_URLwav>
+                <_URLogg ElementID="398" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </_URLogg>
+                <Visible ElementID="426" IsProperty="true">
+                  <Value><![CDATA[true]]></Value>
+                </Visible>
+                <Events ElementID="500" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Event ElementID="501" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="502" IsProperty="true">
+                      <Value><![CDATA[OnPlay]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="503" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="504" IsProperty="true">
+                      <Value><![CDATA[OnPause]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="507" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="508" IsProperty="true">
+                      <Value><![CDATA[OnComplete]]></Value>
+                    </Trigger>
+                  </Event>
+                </Events>
+                <Playing ElementID="660" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Playing>
+                <Completed ElementID="663" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Completed>
+                <_URLThumbnail ElementID="682" IsProperty="true">
+                  <Value><![CDATA[Content/audioThumbnail.jpg]]></Value>
+                </_URLThumbnail>
+                <Alpha ElementID="728" IsProperty="true">
+                  <Value><![CDATA[1]]></Value>
+                </Alpha>
+                <Duration ElementID="19820791" IsProperty="true">
+                  <Value><![CDATA[51336]]></Value>
+                </Duration>
+                <AssetRevisionID ElementID="19820792" IsProperty="true">
+                  <Value><![CDATA[1]]></Value>
+                </AssetRevisionID>
+                <AssetID ElementID="19820793" IsProperty="true">
+                  <Value><![CDATA[8847]]></Value>
+                </AssetID>
+                <_URL ElementID="19820794" IsProperty="true">
+                  <Value><![CDATA[Content/Capabilities101_20181211143956410.mp3]]></Value>
+                </_URL>
+                <Z ElementID="19820795" IsProperty="true">
+                  <Value><![CDATA[6]]></Value>
+                </Z>
+                <Y ElementID="19820796" IsProperty="true">
+                  <Value><![CDATA[505]]></Value>
+                </Y>
+                <X ElementID="19820797" IsProperty="true">
+                  <Value><![CDATA[650]]></Value>
+                </X>
+                <Name ElementID="19820798" IsProperty="true">
+                  <Value><![CDATA[Capabilities101.mp3]]></Value>
+                </Name>
+              </Audio>
+              <Image ElementID="19837518" IsProperty="false">
+                <Value><![CDATA[]]></Value>
+                <Desc ElementID="152" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Desc>
+                <Actions ElementID="153" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Actions>
+                <Description ElementID="267" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Description>
+                <IsAutoUpdate ElementID="351" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </IsAutoUpdate>
+                <Visible ElementID="423" IsProperty="true">
+                  <Value><![CDATA[true]]></Value>
+                </Visible>
+                <Events ElementID="550" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Event ElementID="551" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="552" IsProperty="true">
+                      <Value><![CDATA[OnMouseOver]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="553" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="554" IsProperty="true">
+                      <Value><![CDATA[OnMouseOut]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="555" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="556" IsProperty="true">
+                      <Value><![CDATA[OnClick]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="557" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="558" IsProperty="true">
+                      <Value><![CDATA[OnDoubleClick]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="559" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="560" IsProperty="true">
+                      <Value><![CDATA[OnFocus]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="561" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="562" IsProperty="true">
+                      <Value><![CDATA[OnFocusLost]]></Value>
+                    </Trigger>
+                  </Event>
+                </Events>
+                <Focus ElementID="656" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Focus>
+                <MouseOver ElementID="657" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </MouseOver>
+                <Alpha ElementID="725" IsProperty="true">
+                  <Value><![CDATA[1]]></Value>
+                </Alpha>
+                <_URL ElementID="19837519" IsProperty="true">
+                  <Value><![CDATA[Content/7BlankScreen_20181113152328910.png]]></Value>
+                </_URL>
+                <Height ElementID="19837520" IsProperty="true">
+                  <Value><![CDATA[467]]></Value>
+                </Height>
+                <Width ElementID="19837521" IsProperty="true">
+                  <Value><![CDATA[321]]></Value>
+                </Width>
+                <Z ElementID="19837522" IsProperty="true">
+                  <Value><![CDATA[7]]></Value>
+                </Z>
+                <Y ElementID="19837523" IsProperty="true">
+                  <Value><![CDATA[115]]></Value>
+                </Y>
+                <X ElementID="19837524" IsProperty="true">
+                  <Value><![CDATA[870]]></Value>
+                </X>
+                <Name ElementID="19837525" IsProperty="true">
+                  <Value><![CDATA[7BlankScreen.png]]></Value>
+                </Name>
+                <AssetID ElementID="19837526" IsProperty="true">
+                  <Value><![CDATA[8443]]></Value>
+                </AssetID>
+                <AssetRevisionID ElementID="19837527" IsProperty="true">
+                  <Value><![CDATA[1]]></Value>
+                </AssetRevisionID>
+                <_URLThumbnail ElementID="19837528" IsProperty="true">
+                  <Value><![CDATA[Content/Thumb_7BlankScreen_20181113152328897.jpg]]></Value>
+                </_URLThumbnail>
+              </Image>
+              <TextBox ElementID="20218947" IsProperty="false">
+                <Value><![CDATA[]]></Value>
+                <Font ElementID="9" IsProperty="true">
+                  <Value><![CDATA[Arial]]></Value>
+                </Font>
+                <FontColor ElementID="11" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </FontColor>
+                <Size ElementID="12" IsProperty="true">
+                  <Value><![CDATA[14]]></Value>
+                </Size>
+                <Bold ElementID="13" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Bold>
+                <Italic ElementID="14" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Italic>
+                <Underline ElementID="15" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Underline>
+                <Color ElementID="16" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </Color>
+                <Justify ElementID="17" IsProperty="true">
+                  <Value><![CDATA[Left]]></Value>
+                </Justify>
+                <_URLThumbnail ElementID="18" IsProperty="true">
+                  <Value><![CDATA[Content/TextBox.png]]></Value>
+                </_URLThumbnail>
+                <BorderColor ElementID="19" IsProperty="true">
+                  <Value><![CDATA[0x000000]]></Value>
+                </BorderColor>
+                <BackgroundColor ElementID="21" IsProperty="true">
+                  <Value><![CDATA[0xFFFFFF]]></Value>
+                </BackgroundColor>
+                <Editable ElementID="23" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Editable>
+                <Selectable ElementID="24" IsProperty="true">
+                  <Value><![CDATA[true]]></Value>
+                </Selectable>
+                <Bullet ElementID="25" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Bullet>
+                <Multiline ElementID="26" IsProperty="true">
+                  <Value><![CDATA[true]]></Value>
+                </Multiline>
+                <CorrectText ElementID="27" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </CorrectText>
+                <CheckCase ElementID="28" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </CheckCase>
+                <MaxChars ElementID="29" IsProperty="true">
+                  <Value><![CDATA[0x7FFFFFFF]]></Value>
+                </MaxChars>
+                <Alignment ElementID="30" IsProperty="true">
+                  <Value><![CDATA[left]]></Value>
+                </Alignment>
+                <Actions ElementID="31" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Actions>
+                <Margin ElementID="335" IsProperty="true">
+                  <Value><![CDATA[0]]></Value>
+                </Margin>
+                <_URL ElementID="415" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </_URL>
+                <AssetID ElementID="416" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </AssetID>
+                <AssetRevisionID ElementID="417" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </AssetRevisionID>
+                <Events ElementID="594" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Event ElementID="595" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="596" IsProperty="true">
+                      <Value><![CDATA[OnClick]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="597" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="598" IsProperty="true">
+                      <Value><![CDATA[OnDoubleClick]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="599" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="600" IsProperty="true">
+                      <Value><![CDATA[OnChange]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="601" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="602" IsProperty="true">
+                      <Value><![CDATA[OnFocus]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="603" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="604" IsProperty="true">
+                      <Value><![CDATA[OnFocusLost]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="605" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="606" IsProperty="true">
+                      <Value><![CDATA[OnMouseOut]]></Value>
+                    </Trigger>
+                  </Event>
+                  <Event ElementID="607" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Trigger ElementID="608" IsProperty="true">
+                      <Value><![CDATA[OnMouseOver]]></Value>
+                    </Trigger>
+                  </Event>
+                </Events>
+                <Focus ElementID="652" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </Focus>
+                <MouseOver ElementID="653" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                </MouseOver>
+                <Alpha ElementID="721" IsProperty="true">
+                  <Value><![CDATA[1]]></Value>
+                </Alpha>
+                <Name ElementID="20218948" IsProperty="true">
+                  <Value><![CDATA[T_6]]></Value>
+                </Name>
+                <Z ElementID="20218949" IsProperty="true">
+                  <Value><![CDATA[5]]></Value>
+                </Z>
+                <Background ElementID="20218950" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Background>
+                <Border ElementID="20218951" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Border>
+                <FontSize ElementID="20218952" IsProperty="true">
+                  <Value><![CDATA[28]]></Value>
+                </FontSize>
+                <Text ElementID="20218953" IsProperty="true">
+                  <Value><![CDATA[<HTML><BODY><UL><LI><FONT FACE="Arial" SIZE="28" COLOR="#000000" LETTERSPACING="0" KERNING="1">The Radiacmeter will 'turn on' to the Normal Operation Mode if radiation is present and exceeds the Alarm Mode level</FONT></LI></UL></BODY></HTML>]]></Value>
+                </Text>
+                <Height ElementID="20218954" IsProperty="true">
+                  <Value><![CDATA[105]]></Value>
+                </Height>
+                <Width ElementID="20218955" IsProperty="true">
+                  <Value><![CDATA[660]]></Value>
+                </Width>
+                <Y ElementID="20218956" IsProperty="true">
+                  <Value><![CDATA[468]]></Value>
+                </Y>
+                <X ElementID="20218957" IsProperty="true">
+                  <Value><![CDATA[40]]></Value>
+                </X>
+                <Visible ElementID="20218958" IsProperty="true">
+                  <Value><![CDATA[false]]></Value>
+                </Visible>
+              </TextBox>
+            </ContentWindow>
+            <PageAttributes ElementID="6241318" IsProperty="false">
+              <Value><![CDATA[]]></Value>
+              <Name ElementID="285" IsProperty="true">
+                <Value><![CDATA[Page]]></Value>
+              </Name>
+              <ForwardVisible ElementID="286" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </ForwardVisible>
+              <ForwardEnable ElementID="287" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </ForwardEnable>
+              <BackVisible ElementID="288" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </BackVisible>
+              <BackEnable ElementID="289" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </BackEnable>
+              <PageCounterVisible ElementID="290" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </PageCounterVisible>
+              <PageCounterEnable ElementID="291" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </PageCounterEnable>
+              <AudioControlVisible ElementID="292" IsProperty="true">
+                <Value><![CDATA[false]]></Value>
+              </AudioControlVisible>
+              <AudioControlEnable ElementID="293" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </AudioControlEnable>
+              <RewindVisible ElementID="294" IsProperty="true">
+                <Value><![CDATA[false]]></Value>
+              </RewindVisible>
+              <RewindEnable ElementID="295" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </RewindEnable>
+              <PlayPauseVisible ElementID="296" IsProperty="true">
+                <Value><![CDATA[false]]></Value>
+              </PlayPauseVisible>
+              <PlayPauseEnable ElementID="297" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </PlayPauseEnable>
+              <PromptText ElementID="400" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </PromptText>
+              <Visible ElementID="438" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </Visible>
+              <Variables ElementID="675" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Variables>
+              <PrintVisible ElementID="680" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </PrintVisible>
+              <PrintEnable ElementID="681" IsProperty="true">
+                <Value><![CDATA[false]]></Value>
+              </PrintEnable>
+              <Alpha ElementID="735" IsProperty="true">
+                <Value><![CDATA[1]]></Value>
+              </Alpha>
+              <Events ElementID="19813509" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+                <Event ElementID="568" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="569" IsProperty="true">
+                    <Value><![CDATA[OnExit]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="19813510" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="565" IsProperty="true">
+                    <Value><![CDATA[OnLoad]]></Value>
+                  </Trigger>
+                  <EventHandler ElementID="19813511" IsProperty="true">
+                    <Value><![CDATA[]]></Value>
+                    <Name ElementID="19813512" IsProperty="true">
+                      <Value><![CDATA[Text Flow]]></Value>
+                    </Name>
+                    <Events ElementID="19813513" IsProperty="true">
+                      <Value><![CDATA[]]></Value>
+                      <Event ElementID="19813514" IsProperty="true">
+                        <Value><![CDATA[]]></Value>
+                        <Trigger ElementID="19813515" IsProperty="true">
+                          <Value><![CDATA[OnComplete]]></Value>
+                        </Trigger>
+                      </Event>
+                    </Events>
+                    <Cases ElementID="19813516" IsProperty="true">
+                      <Value><![CDATA[]]></Value>
+                      <Case ElementID="19813517" IsProperty="true">
+                        <Value><![CDATA[]]></Value>
+                        <IsDefaultCase ElementID="19813518" IsProperty="true">
+                          <Value><![CDATA[true]]></Value>
+                        </IsDefaultCase>
+                        <Name ElementID="19813519" IsProperty="true">
+                          <Value><![CDATA[]]></Value>
+                        </Name>
+                        <Order ElementID="19813520" IsProperty="true">
+                          <Value><![CDATA[0]]></Value>
+                        </Order>
+                        <FunctionGroups ElementID="19813521" IsProperty="true">
+                          <Value><![CDATA[]]></Value>
+                          <Name ElementID="19813522" IsProperty="true">
+                            <Value><![CDATA[]]></Value>
+                          </Name>
+                          <FunctionGroup ElementID="19813523" IsProperty="true">
+                            <Value><![CDATA[]]></Value>
+                            <Name ElementID="19813524" IsProperty="true">
+                              <Value><![CDATA[Entrance]]></Value>
+                            </Name>
+                            <Order ElementID="19813525" IsProperty="true">
+                              <Value><![CDATA[1]]></Value>
+                            </Order>
+                            <Parameters ElementID="19813526" IsProperty="true">
+                              <Value><![CDATA[]]></Value>
+                              <ComponentElementID ElementID="19813527" IsProperty="true">
+                                <Value><![CDATA[19795183]]></Value>
+                              </ComponentElementID>
+                              <FadeIn ElementID="19813528" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Delay ElementID="19813529" IsProperty="true">
+                                  <Value><![CDATA[0]]></Value>
+                                </Delay>
+                                <Duration ElementID="19813530" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Duration>
+                              </FadeIn>
+                            </Parameters>
+                            <Functions ElementID="19813531" IsProperty="true">
+                              <Value><![CDATA[]]></Value>
+                              <Name ElementID="19813532" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                              </Name>
+                              <Function ElementID="19813533" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="19813534" IsProperty="true">
+                                  <Value><![CDATA[Delay]]></Value>
+                                </Name>
+                                <Order ElementID="19813535" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Order>
+                                <DelayDuration ElementID="19813536" IsProperty="true">
+                                  <Value><![CDATA[0]]></Value>
+                                </DelayDuration>
+                              </Function>
+                              <Function ElementID="19813537" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="19813538" IsProperty="true">
+                                  <Value><![CDATA[SetValue]]></Value>
+                                </Name>
+                                <Order ElementID="19813539" IsProperty="true">
+                                  <Value><![CDATA[2]]></Value>
+                                </Order>
+                                <ComponentElementID ElementID="19813540" IsProperty="true">
+                                  <Value><![CDATA[19795183]]></Value>
+                                </ComponentElementID>
+                                <Property ElementID="19813541" IsProperty="true">
+                                  <Value><![CDATA[Visible]]></Value>
+                                </Property>
+                                <ValueObject ElementID="19813542" IsProperty="true">
+                                  <Value><![CDATA[]]></Value>
+                                  <Order ElementID="19813543" IsProperty="true">
+                                    <Value><![CDATA[0]]></Value>
+                                  </Order>
+                                  <Function ElementID="19813544" IsProperty="true">
+                                    <Value><![CDATA[]]></Value>
+                                    <Name ElementID="19813545" IsProperty="true">
+                                      <Value><![CDATA[Constant]]></Value>
+                                    </Name>
+                                    <Order ElementID="19813546" IsProperty="true">
+                                      <Value><![CDATA[1]]></Value>
+                                    </Order>
+                                    <ConstantValue ElementID="19813547" IsProperty="true">
+                                      <Value><![CDATA[true]]></Value>
+                                    </ConstantValue>
+                                    <Type ElementID="19813548" IsProperty="true">
+                                      <Value><![CDATA[Boolean]]></Value>
+                                    </Type>
+                                  </Function>
+                                </ValueObject>
+                              </Function>
+                              <Function ElementID="19813549" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="19813550" IsProperty="true">
+                                  <Value><![CDATA[Animate]]></Value>
+                                </Name>
+                                <Order ElementID="19813551" IsProperty="true">
+                                  <Value><![CDATA[3]]></Value>
+                                </Order>
+                                <ComponentElementID ElementID="19813552" IsProperty="true">
+                                  <Value><![CDATA[19795183]]></Value>
+                                </ComponentElementID>
+                                <Duration ElementID="19813553" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Duration>
+                                <MotionPaths ElementID="19813554" IsProperty="true">
+                                  <Value><![CDATA[]]></Value>
+                                  <MotionPath ElementID="19813555" IsProperty="true">
+                                    <Value><![CDATA[]]></Value>
+                                    <Property ElementID="19813556" IsProperty="true">
+                                      <Value><![CDATA[alpha]]></Value>
+                                    </Property>
+                                    <ValueFrom ElementID="19813557" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                      <ValueObject ElementID="19813558" IsProperty="true">
+                                        <Value><![CDATA[]]></Value>
+                                        <Order ElementID="19813559" IsProperty="true">
+                                          <Value><![CDATA[0]]></Value>
+                                        </Order>
+                                        <Function ElementID="19813560" IsProperty="true">
+                                          <Value><![CDATA[]]></Value>
+                                          <Name ElementID="19813561" IsProperty="true">
+                                            <Value><![CDATA[Constant]]></Value>
+                                          </Name>
+                                          <Order ElementID="19813562" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </Order>
+                                          <ConstantValue ElementID="19813563" IsProperty="true">
+                                            <Value><![CDATA[0]]></Value>
+                                          </ConstantValue>
+                                          <Type ElementID="19813564" IsProperty="true">
+                                            <Value><![CDATA[Number]]></Value>
+                                          </Type>
+                                        </Function>
+                                      </ValueObject>
+                                    </ValueFrom>
+                                    <ValueTo ElementID="19813565" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                      <ValueObject ElementID="19813566" IsProperty="true">
+                                        <Value><![CDATA[]]></Value>
+                                        <Order ElementID="19813567" IsProperty="true">
+                                          <Value><![CDATA[0]]></Value>
+                                        </Order>
+                                        <Function ElementID="19813568" IsProperty="true">
+                                          <Value><![CDATA[]]></Value>
+                                          <Name ElementID="19813569" IsProperty="true">
+                                            <Value><![CDATA[Constant]]></Value>
+                                          </Name>
+                                          <Order ElementID="19813570" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </Order>
+                                          <ConstantValue ElementID="19813571" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </ConstantValue>
+                                          <Type ElementID="19813572" IsProperty="true">
+                                            <Value><![CDATA[Number]]></Value>
+                                          </Type>
+                                        </Function>
+                                      </ValueObject>
+                                    </ValueTo>
+                                    <ValueBy ElementID="19813573" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                    </ValueBy>
+                                  </MotionPath>
+                                </MotionPaths>
+                              </Function>
+                            </Functions>
+                            <Execute ElementID="19813574" IsProperty="true">
+                              <Value><![CDATA[After Previous]]></Value>
+                            </Execute>
+                          </FunctionGroup>
+                          <FunctionGroup ElementID="19813575" IsProperty="true">
+                            <Value><![CDATA[]]></Value>
+                            <Name ElementID="19813576" IsProperty="true">
+                              <Value><![CDATA[Entrance]]></Value>
+                            </Name>
+                            <Order ElementID="19813577" IsProperty="true">
+                              <Value><![CDATA[2]]></Value>
+                            </Order>
+                            <Parameters ElementID="19813578" IsProperty="true">
+                              <Value><![CDATA[]]></Value>
+                              <ComponentElementID ElementID="19813579" IsProperty="true">
+                                <Value><![CDATA[19795193]]></Value>
+                              </ComponentElementID>
+                              <FadeIn ElementID="19813580" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Delay ElementID="19813581" IsProperty="true">
+                                  <Value><![CDATA[8]]></Value>
+                                </Delay>
+                                <Duration ElementID="19813582" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Duration>
+                              </FadeIn>
+                            </Parameters>
+                            <Functions ElementID="19813583" IsProperty="true">
+                              <Value><![CDATA[]]></Value>
+                              <Name ElementID="19813584" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                              </Name>
+                              <Function ElementID="19813585" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="19813586" IsProperty="true">
+                                  <Value><![CDATA[Delay]]></Value>
+                                </Name>
+                                <Order ElementID="19813587" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Order>
+                                <DelayDuration ElementID="19813588" IsProperty="true">
+                                  <Value><![CDATA[8]]></Value>
+                                </DelayDuration>
+                              </Function>
+                              <Function ElementID="19813589" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="19813590" IsProperty="true">
+                                  <Value><![CDATA[SetValue]]></Value>
+                                </Name>
+                                <Order ElementID="19813591" IsProperty="true">
+                                  <Value><![CDATA[2]]></Value>
+                                </Order>
+                                <ComponentElementID ElementID="19813592" IsProperty="true">
+                                  <Value><![CDATA[19795193]]></Value>
+                                </ComponentElementID>
+                                <Property ElementID="19813593" IsProperty="true">
+                                  <Value><![CDATA[Visible]]></Value>
+                                </Property>
+                                <ValueObject ElementID="19813594" IsProperty="true">
+                                  <Value><![CDATA[]]></Value>
+                                  <Order ElementID="19813595" IsProperty="true">
+                                    <Value><![CDATA[0]]></Value>
+                                  </Order>
+                                  <Function ElementID="19813596" IsProperty="true">
+                                    <Value><![CDATA[]]></Value>
+                                    <Name ElementID="19813597" IsProperty="true">
+                                      <Value><![CDATA[Constant]]></Value>
+                                    </Name>
+                                    <Order ElementID="19813598" IsProperty="true">
+                                      <Value><![CDATA[1]]></Value>
+                                    </Order>
+                                    <ConstantValue ElementID="19813599" IsProperty="true">
+                                      <Value><![CDATA[true]]></Value>
+                                    </ConstantValue>
+                                    <Type ElementID="19813600" IsProperty="true">
+                                      <Value><![CDATA[Boolean]]></Value>
+                                    </Type>
+                                  </Function>
+                                </ValueObject>
+                              </Function>
+                              <Function ElementID="19813601" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="19813602" IsProperty="true">
+                                  <Value><![CDATA[Animate]]></Value>
+                                </Name>
+                                <Order ElementID="19813603" IsProperty="true">
+                                  <Value><![CDATA[3]]></Value>
+                                </Order>
+                                <ComponentElementID ElementID="19813604" IsProperty="true">
+                                  <Value><![CDATA[19795193]]></Value>
+                                </ComponentElementID>
+                                <Duration ElementID="19813605" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Duration>
+                                <MotionPaths ElementID="19813606" IsProperty="true">
+                                  <Value><![CDATA[]]></Value>
+                                  <MotionPath ElementID="19813607" IsProperty="true">
+                                    <Value><![CDATA[]]></Value>
+                                    <Property ElementID="19813608" IsProperty="true">
+                                      <Value><![CDATA[alpha]]></Value>
+                                    </Property>
+                                    <ValueFrom ElementID="19813609" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                      <ValueObject ElementID="19813610" IsProperty="true">
+                                        <Value><![CDATA[]]></Value>
+                                        <Order ElementID="19813611" IsProperty="true">
+                                          <Value><![CDATA[0]]></Value>
+                                        </Order>
+                                        <Function ElementID="19813612" IsProperty="true">
+                                          <Value><![CDATA[]]></Value>
+                                          <Name ElementID="19813613" IsProperty="true">
+                                            <Value><![CDATA[Constant]]></Value>
+                                          </Name>
+                                          <Order ElementID="19813614" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </Order>
+                                          <ConstantValue ElementID="19813615" IsProperty="true">
+                                            <Value><![CDATA[0]]></Value>
+                                          </ConstantValue>
+                                          <Type ElementID="19813616" IsProperty="true">
+                                            <Value><![CDATA[Number]]></Value>
+                                          </Type>
+                                        </Function>
+                                      </ValueObject>
+                                    </ValueFrom>
+                                    <ValueTo ElementID="19813617" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                      <ValueObject ElementID="19813618" IsProperty="true">
+                                        <Value><![CDATA[]]></Value>
+                                        <Order ElementID="19813619" IsProperty="true">
+                                          <Value><![CDATA[0]]></Value>
+                                        </Order>
+                                        <Function ElementID="19813620" IsProperty="true">
+                                          <Value><![CDATA[]]></Value>
+                                          <Name ElementID="19813621" IsProperty="true">
+                                            <Value><![CDATA[Constant]]></Value>
+                                          </Name>
+                                          <Order ElementID="19813622" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </Order>
+                                          <ConstantValue ElementID="19813623" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </ConstantValue>
+                                          <Type ElementID="19813624" IsProperty="true">
+                                            <Value><![CDATA[Number]]></Value>
+                                          </Type>
+                                        </Function>
+                                      </ValueObject>
+                                    </ValueTo>
+                                    <ValueBy ElementID="19813625" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                    </ValueBy>
+                                  </MotionPath>
+                                </MotionPaths>
+                              </Function>
+                            </Functions>
+                            <Execute ElementID="19813626" IsProperty="true">
+                              <Value><![CDATA[After Previous]]></Value>
+                            </Execute>
+                          </FunctionGroup>
+                          <FunctionGroup ElementID="19813627" IsProperty="true">
+                            <Value><![CDATA[]]></Value>
+                            <Name ElementID="19813628" IsProperty="true">
+                              <Value><![CDATA[Entrance]]></Value>
+                            </Name>
+                            <Order ElementID="19813629" IsProperty="true">
+                              <Value><![CDATA[3]]></Value>
+                            </Order>
+                            <Parameters ElementID="19813630" IsProperty="true">
+                              <Value><![CDATA[]]></Value>
+                              <ComponentElementID ElementID="19813631" IsProperty="true">
+                                <Value><![CDATA[19795203]]></Value>
+                              </ComponentElementID>
+                              <FadeIn ElementID="19813632" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Delay ElementID="19813633" IsProperty="true">
+                                  <Value><![CDATA[10]]></Value>
+                                </Delay>
+                                <Duration ElementID="19813634" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Duration>
+                              </FadeIn>
+                            </Parameters>
+                            <Functions ElementID="19813635" IsProperty="true">
+                              <Value><![CDATA[]]></Value>
+                              <Name ElementID="19813636" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                              </Name>
+                              <Function ElementID="19813637" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="19813638" IsProperty="true">
+                                  <Value><![CDATA[Delay]]></Value>
+                                </Name>
+                                <Order ElementID="19813639" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Order>
+                                <DelayDuration ElementID="19813640" IsProperty="true">
+                                  <Value><![CDATA[10]]></Value>
+                                </DelayDuration>
+                              </Function>
+                              <Function ElementID="19813641" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="19813642" IsProperty="true">
+                                  <Value><![CDATA[SetValue]]></Value>
+                                </Name>
+                                <Order ElementID="19813643" IsProperty="true">
+                                  <Value><![CDATA[2]]></Value>
+                                </Order>
+                                <ComponentElementID ElementID="19813644" IsProperty="true">
+                                  <Value><![CDATA[19795203]]></Value>
+                                </ComponentElementID>
+                                <Property ElementID="19813645" IsProperty="true">
+                                  <Value><![CDATA[Visible]]></Value>
+                                </Property>
+                                <ValueObject ElementID="19813646" IsProperty="true">
+                                  <Value><![CDATA[]]></Value>
+                                  <Order ElementID="19813647" IsProperty="true">
+                                    <Value><![CDATA[0]]></Value>
+                                  </Order>
+                                  <Function ElementID="19813648" IsProperty="true">
+                                    <Value><![CDATA[]]></Value>
+                                    <Name ElementID="19813649" IsProperty="true">
+                                      <Value><![CDATA[Constant]]></Value>
+                                    </Name>
+                                    <Order ElementID="19813650" IsProperty="true">
+                                      <Value><![CDATA[1]]></Value>
+                                    </Order>
+                                    <ConstantValue ElementID="19813651" IsProperty="true">
+                                      <Value><![CDATA[true]]></Value>
+                                    </ConstantValue>
+                                    <Type ElementID="19813652" IsProperty="true">
+                                      <Value><![CDATA[Boolean]]></Value>
+                                    </Type>
+                                  </Function>
+                                </ValueObject>
+                              </Function>
+                              <Function ElementID="19813653" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="19813654" IsProperty="true">
+                                  <Value><![CDATA[Animate]]></Value>
+                                </Name>
+                                <Order ElementID="19813655" IsProperty="true">
+                                  <Value><![CDATA[3]]></Value>
+                                </Order>
+                                <ComponentElementID ElementID="19813656" IsProperty="true">
+                                  <Value><![CDATA[19795203]]></Value>
+                                </ComponentElementID>
+                                <Duration ElementID="19813657" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Duration>
+                                <MotionPaths ElementID="19813658" IsProperty="true">
+                                  <Value><![CDATA[]]></Value>
+                                  <MotionPath ElementID="19813659" IsProperty="true">
+                                    <Value><![CDATA[]]></Value>
+                                    <Property ElementID="19813660" IsProperty="true">
+                                      <Value><![CDATA[alpha]]></Value>
+                                    </Property>
+                                    <ValueFrom ElementID="19813661" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                      <ValueObject ElementID="19813662" IsProperty="true">
+                                        <Value><![CDATA[]]></Value>
+                                        <Order ElementID="19813663" IsProperty="true">
+                                          <Value><![CDATA[0]]></Value>
+                                        </Order>
+                                        <Function ElementID="19813664" IsProperty="true">
+                                          <Value><![CDATA[]]></Value>
+                                          <Name ElementID="19813665" IsProperty="true">
+                                            <Value><![CDATA[Constant]]></Value>
+                                          </Name>
+                                          <Order ElementID="19813666" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </Order>
+                                          <ConstantValue ElementID="19813667" IsProperty="true">
+                                            <Value><![CDATA[0]]></Value>
+                                          </ConstantValue>
+                                          <Type ElementID="19813668" IsProperty="true">
+                                            <Value><![CDATA[Number]]></Value>
+                                          </Type>
+                                        </Function>
+                                      </ValueObject>
+                                    </ValueFrom>
+                                    <ValueTo ElementID="19813669" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                      <ValueObject ElementID="19813670" IsProperty="true">
+                                        <Value><![CDATA[]]></Value>
+                                        <Order ElementID="19813671" IsProperty="true">
+                                          <Value><![CDATA[0]]></Value>
+                                        </Order>
+                                        <Function ElementID="19813672" IsProperty="true">
+                                          <Value><![CDATA[]]></Value>
+                                          <Name ElementID="19813673" IsProperty="true">
+                                            <Value><![CDATA[Constant]]></Value>
+                                          </Name>
+                                          <Order ElementID="19813674" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </Order>
+                                          <ConstantValue ElementID="19813675" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </ConstantValue>
+                                          <Type ElementID="19813676" IsProperty="true">
+                                            <Value><![CDATA[Number]]></Value>
+                                          </Type>
+                                        </Function>
+                                      </ValueObject>
+                                    </ValueTo>
+                                    <ValueBy ElementID="19813677" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                    </ValueBy>
+                                  </MotionPath>
+                                </MotionPaths>
+                              </Function>
+                            </Functions>
+                            <Execute ElementID="19813678" IsProperty="true">
+                              <Value><![CDATA[After Previous]]></Value>
+                            </Execute>
+                          </FunctionGroup>
+                          <FunctionGroup ElementID="19813679" IsProperty="true">
+                            <Value><![CDATA[]]></Value>
+                            <Name ElementID="19813680" IsProperty="true">
+                              <Value><![CDATA[Entrance]]></Value>
+                            </Name>
+                            <Order ElementID="19813681" IsProperty="true">
+                              <Value><![CDATA[4]]></Value>
+                            </Order>
+                            <Parameters ElementID="19813682" IsProperty="true">
+                              <Value><![CDATA[]]></Value>
+                              <ComponentElementID ElementID="19813683" IsProperty="true">
+                                <Value><![CDATA[19795225]]></Value>
+                              </ComponentElementID>
+                              <FadeIn ElementID="19813684" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Delay ElementID="19813685" IsProperty="true">
+                                  <Value><![CDATA[2]]></Value>
+                                </Delay>
+                                <Duration ElementID="19813686" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Duration>
+                              </FadeIn>
+                            </Parameters>
+                            <Functions ElementID="19813687" IsProperty="true">
+                              <Value><![CDATA[]]></Value>
+                              <Name ElementID="19813688" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                              </Name>
+                              <Function ElementID="19813689" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="19813690" IsProperty="true">
+                                  <Value><![CDATA[Delay]]></Value>
+                                </Name>
+                                <Order ElementID="19813691" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Order>
+                                <DelayDuration ElementID="19813692" IsProperty="true">
+                                  <Value><![CDATA[2]]></Value>
+                                </DelayDuration>
+                              </Function>
+                              <Function ElementID="19813693" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="19813694" IsProperty="true">
+                                  <Value><![CDATA[SetValue]]></Value>
+                                </Name>
+                                <Order ElementID="19813695" IsProperty="true">
+                                  <Value><![CDATA[2]]></Value>
+                                </Order>
+                                <ComponentElementID ElementID="19813696" IsProperty="true">
+                                  <Value><![CDATA[19795225]]></Value>
+                                </ComponentElementID>
+                                <Property ElementID="19813697" IsProperty="true">
+                                  <Value><![CDATA[Visible]]></Value>
+                                </Property>
+                                <ValueObject ElementID="19813698" IsProperty="true">
+                                  <Value><![CDATA[]]></Value>
+                                  <Order ElementID="19813699" IsProperty="true">
+                                    <Value><![CDATA[0]]></Value>
+                                  </Order>
+                                  <Function ElementID="19813700" IsProperty="true">
+                                    <Value><![CDATA[]]></Value>
+                                    <Name ElementID="19813701" IsProperty="true">
+                                      <Value><![CDATA[Constant]]></Value>
+                                    </Name>
+                                    <Order ElementID="19813702" IsProperty="true">
+                                      <Value><![CDATA[1]]></Value>
+                                    </Order>
+                                    <ConstantValue ElementID="19813703" IsProperty="true">
+                                      <Value><![CDATA[true]]></Value>
+                                    </ConstantValue>
+                                    <Type ElementID="19813704" IsProperty="true">
+                                      <Value><![CDATA[Boolean]]></Value>
+                                    </Type>
+                                  </Function>
+                                </ValueObject>
+                              </Function>
+                              <Function ElementID="19813705" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="19813706" IsProperty="true">
+                                  <Value><![CDATA[Animate]]></Value>
+                                </Name>
+                                <Order ElementID="19813707" IsProperty="true">
+                                  <Value><![CDATA[3]]></Value>
+                                </Order>
+                                <ComponentElementID ElementID="19813708" IsProperty="true">
+                                  <Value><![CDATA[19795225]]></Value>
+                                </ComponentElementID>
+                                <Duration ElementID="19813709" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Duration>
+                                <MotionPaths ElementID="19813710" IsProperty="true">
+                                  <Value><![CDATA[]]></Value>
+                                  <MotionPath ElementID="19813711" IsProperty="true">
+                                    <Value><![CDATA[]]></Value>
+                                    <Property ElementID="19813712" IsProperty="true">
+                                      <Value><![CDATA[alpha]]></Value>
+                                    </Property>
+                                    <ValueFrom ElementID="19813713" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                      <ValueObject ElementID="19813714" IsProperty="true">
+                                        <Value><![CDATA[]]></Value>
+                                        <Order ElementID="19813715" IsProperty="true">
+                                          <Value><![CDATA[0]]></Value>
+                                        </Order>
+                                        <Function ElementID="19813716" IsProperty="true">
+                                          <Value><![CDATA[]]></Value>
+                                          <Name ElementID="19813717" IsProperty="true">
+                                            <Value><![CDATA[Constant]]></Value>
+                                          </Name>
+                                          <Order ElementID="19813718" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </Order>
+                                          <ConstantValue ElementID="19813719" IsProperty="true">
+                                            <Value><![CDATA[0]]></Value>
+                                          </ConstantValue>
+                                          <Type ElementID="19813720" IsProperty="true">
+                                            <Value><![CDATA[Number]]></Value>
+                                          </Type>
+                                        </Function>
+                                      </ValueObject>
+                                    </ValueFrom>
+                                    <ValueTo ElementID="19813721" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                      <ValueObject ElementID="19813722" IsProperty="true">
+                                        <Value><![CDATA[]]></Value>
+                                        <Order ElementID="19813723" IsProperty="true">
+                                          <Value><![CDATA[0]]></Value>
+                                        </Order>
+                                        <Function ElementID="19813724" IsProperty="true">
+                                          <Value><![CDATA[]]></Value>
+                                          <Name ElementID="19813725" IsProperty="true">
+                                            <Value><![CDATA[Constant]]></Value>
+                                          </Name>
+                                          <Order ElementID="19813726" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </Order>
+                                          <ConstantValue ElementID="19813727" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </ConstantValue>
+                                          <Type ElementID="19813728" IsProperty="true">
+                                            <Value><![CDATA[Number]]></Value>
+                                          </Type>
+                                        </Function>
+                                      </ValueObject>
+                                    </ValueTo>
+                                    <ValueBy ElementID="19813729" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                    </ValueBy>
+                                  </MotionPath>
+                                </MotionPaths>
+                              </Function>
+                            </Functions>
+                            <Execute ElementID="19813730" IsProperty="true">
+                              <Value><![CDATA[After Previous]]></Value>
+                            </Execute>
+                          </FunctionGroup>
+                          <FunctionGroup ElementID="19813731" IsProperty="true">
+                            <Value><![CDATA[]]></Value>
+                            <Name ElementID="19813732" IsProperty="true">
+                              <Value><![CDATA[Entrance]]></Value>
+                            </Name>
+                            <Order ElementID="19813733" IsProperty="true">
+                              <Value><![CDATA[5]]></Value>
+                            </Order>
+                            <Parameters ElementID="19813734" IsProperty="true">
+                              <Value><![CDATA[]]></Value>
+                              <ComponentElementID ElementID="19813735" IsProperty="true">
+                                <Value><![CDATA[19795236]]></Value>
+                              </ComponentElementID>
+                              <FadeIn ElementID="19813736" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Delay ElementID="19813737" IsProperty="true">
+                                  <Value><![CDATA[14]]></Value>
+                                </Delay>
+                                <Duration ElementID="19813738" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Duration>
+                              </FadeIn>
+                            </Parameters>
+                            <Functions ElementID="19813739" IsProperty="true">
+                              <Value><![CDATA[]]></Value>
+                              <Name ElementID="19813740" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                              </Name>
+                              <Function ElementID="19813741" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="19813742" IsProperty="true">
+                                  <Value><![CDATA[Delay]]></Value>
+                                </Name>
+                                <Order ElementID="19813743" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Order>
+                                <DelayDuration ElementID="19813744" IsProperty="true">
+                                  <Value><![CDATA[14]]></Value>
+                                </DelayDuration>
+                              </Function>
+                              <Function ElementID="19813745" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="19813746" IsProperty="true">
+                                  <Value><![CDATA[SetValue]]></Value>
+                                </Name>
+                                <Order ElementID="19813747" IsProperty="true">
+                                  <Value><![CDATA[2]]></Value>
+                                </Order>
+                                <ComponentElementID ElementID="19813748" IsProperty="true">
+                                  <Value><![CDATA[19795236]]></Value>
+                                </ComponentElementID>
+                                <Property ElementID="19813749" IsProperty="true">
+                                  <Value><![CDATA[Visible]]></Value>
+                                </Property>
+                                <ValueObject ElementID="19813750" IsProperty="true">
+                                  <Value><![CDATA[]]></Value>
+                                  <Order ElementID="19813751" IsProperty="true">
+                                    <Value><![CDATA[0]]></Value>
+                                  </Order>
+                                  <Function ElementID="19813752" IsProperty="true">
+                                    <Value><![CDATA[]]></Value>
+                                    <Name ElementID="19813753" IsProperty="true">
+                                      <Value><![CDATA[Constant]]></Value>
+                                    </Name>
+                                    <Order ElementID="19813754" IsProperty="true">
+                                      <Value><![CDATA[1]]></Value>
+                                    </Order>
+                                    <ConstantValue ElementID="19813755" IsProperty="true">
+                                      <Value><![CDATA[true]]></Value>
+                                    </ConstantValue>
+                                    <Type ElementID="19813756" IsProperty="true">
+                                      <Value><![CDATA[Boolean]]></Value>
+                                    </Type>
+                                  </Function>
+                                </ValueObject>
+                              </Function>
+                              <Function ElementID="19813757" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="19813758" IsProperty="true">
+                                  <Value><![CDATA[Animate]]></Value>
+                                </Name>
+                                <Order ElementID="19813759" IsProperty="true">
+                                  <Value><![CDATA[3]]></Value>
+                                </Order>
+                                <ComponentElementID ElementID="19813760" IsProperty="true">
+                                  <Value><![CDATA[19795236]]></Value>
+                                </ComponentElementID>
+                                <Duration ElementID="19813761" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Duration>
+                                <MotionPaths ElementID="19813762" IsProperty="true">
+                                  <Value><![CDATA[]]></Value>
+                                  <MotionPath ElementID="19813763" IsProperty="true">
+                                    <Value><![CDATA[]]></Value>
+                                    <Property ElementID="19813764" IsProperty="true">
+                                      <Value><![CDATA[alpha]]></Value>
+                                    </Property>
+                                    <ValueFrom ElementID="19813765" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                      <ValueObject ElementID="19813766" IsProperty="true">
+                                        <Value><![CDATA[]]></Value>
+                                        <Order ElementID="19813767" IsProperty="true">
+                                          <Value><![CDATA[0]]></Value>
+                                        </Order>
+                                        <Function ElementID="19813768" IsProperty="true">
+                                          <Value><![CDATA[]]></Value>
+                                          <Name ElementID="19813769" IsProperty="true">
+                                            <Value><![CDATA[Constant]]></Value>
+                                          </Name>
+                                          <Order ElementID="19813770" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </Order>
+                                          <ConstantValue ElementID="19813771" IsProperty="true">
+                                            <Value><![CDATA[0]]></Value>
+                                          </ConstantValue>
+                                          <Type ElementID="19813772" IsProperty="true">
+                                            <Value><![CDATA[Number]]></Value>
+                                          </Type>
+                                        </Function>
+                                      </ValueObject>
+                                    </ValueFrom>
+                                    <ValueTo ElementID="19813773" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                      <ValueObject ElementID="19813774" IsProperty="true">
+                                        <Value><![CDATA[]]></Value>
+                                        <Order ElementID="19813775" IsProperty="true">
+                                          <Value><![CDATA[0]]></Value>
+                                        </Order>
+                                        <Function ElementID="19813776" IsProperty="true">
+                                          <Value><![CDATA[]]></Value>
+                                          <Name ElementID="19813777" IsProperty="true">
+                                            <Value><![CDATA[Constant]]></Value>
+                                          </Name>
+                                          <Order ElementID="19813778" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </Order>
+                                          <ConstantValue ElementID="19813779" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </ConstantValue>
+                                          <Type ElementID="19813780" IsProperty="true">
+                                            <Value><![CDATA[Number]]></Value>
+                                          </Type>
+                                        </Function>
+                                      </ValueObject>
+                                    </ValueTo>
+                                    <ValueBy ElementID="19813781" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                    </ValueBy>
+                                  </MotionPath>
+                                </MotionPaths>
+                              </Function>
+                            </Functions>
+                            <Execute ElementID="19813782" IsProperty="true">
+                              <Value><![CDATA[After Previous]]></Value>
+                            </Execute>
+                          </FunctionGroup>
+                          <FunctionGroup ElementID="20220257" IsProperty="true">
+                            <Value><![CDATA[]]></Value>
+                            <Name ElementID="20220258" IsProperty="true">
+                              <Value><![CDATA[Entrance]]></Value>
+                            </Name>
+                            <Order ElementID="20220259" IsProperty="true">
+                              <Value><![CDATA[6]]></Value>
+                            </Order>
+                            <Parameters ElementID="20220260" IsProperty="true">
+                              <Value><![CDATA[]]></Value>
+                              <ComponentElementID ElementID="20220261" IsProperty="true">
+                                <Value><![CDATA[20218947]]></Value>
+                              </ComponentElementID>
+                              <FadeIn ElementID="20220262" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Delay ElementID="20220263" IsProperty="true">
+                                  <Value><![CDATA[4]]></Value>
+                                </Delay>
+                                <Duration ElementID="20220264" IsProperty="true">
+                                  <Value><![CDATA[0.5]]></Value>
+                                </Duration>
+                              </FadeIn>
+                            </Parameters>
+                            <Functions ElementID="20220265" IsProperty="true">
+                              <Value><![CDATA[]]></Value>
+                              <Name ElementID="20220266" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                              </Name>
+                              <Function ElementID="20220267" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="20220268" IsProperty="true">
+                                  <Value><![CDATA[Delay]]></Value>
+                                </Name>
+                                <Order ElementID="20220269" IsProperty="true">
+                                  <Value><![CDATA[1]]></Value>
+                                </Order>
+                                <DelayDuration ElementID="20220270" IsProperty="true">
+                                  <Value><![CDATA[4]]></Value>
+                                </DelayDuration>
+                              </Function>
+                              <Function ElementID="20220271" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="20220272" IsProperty="true">
+                                  <Value><![CDATA[SetValue]]></Value>
+                                </Name>
+                                <Order ElementID="20220273" IsProperty="true">
+                                  <Value><![CDATA[2]]></Value>
+                                </Order>
+                                <ComponentElementID ElementID="20220274" IsProperty="true">
+                                  <Value><![CDATA[20218947]]></Value>
+                                </ComponentElementID>
+                                <Property ElementID="20220275" IsProperty="true">
+                                  <Value><![CDATA[Visible]]></Value>
+                                </Property>
+                                <ValueObject ElementID="20220276" IsProperty="true">
+                                  <Value><![CDATA[]]></Value>
+                                  <Order ElementID="20220277" IsProperty="true">
+                                    <Value><![CDATA[0]]></Value>
+                                  </Order>
+                                  <Function ElementID="20220278" IsProperty="true">
+                                    <Value><![CDATA[]]></Value>
+                                    <Name ElementID="20220279" IsProperty="true">
+                                      <Value><![CDATA[Constant]]></Value>
+                                    </Name>
+                                    <Order ElementID="20220280" IsProperty="true">
+                                      <Value><![CDATA[1]]></Value>
+                                    </Order>
+                                    <ConstantValue ElementID="20220281" IsProperty="true">
+                                      <Value><![CDATA[true]]></Value>
+                                    </ConstantValue>
+                                    <Type ElementID="20220282" IsProperty="true">
+                                      <Value><![CDATA[Boolean]]></Value>
+                                    </Type>
+                                  </Function>
+                                </ValueObject>
+                              </Function>
+                              <Function ElementID="20220283" IsProperty="true">
+                                <Value><![CDATA[]]></Value>
+                                <Name ElementID="20220284" IsProperty="true">
+                                  <Value><![CDATA[Animate]]></Value>
+                                </Name>
+                                <Order ElementID="20220285" IsProperty="true">
+                                  <Value><![CDATA[3]]></Value>
+                                </Order>
+                                <ComponentElementID ElementID="20220286" IsProperty="true">
+                                  <Value><![CDATA[20218947]]></Value>
+                                </ComponentElementID>
+                                <Duration ElementID="20220287" IsProperty="true">
+                                  <Value><![CDATA[0.5]]></Value>
+                                </Duration>
+                                <MotionPaths ElementID="20220288" IsProperty="true">
+                                  <Value><![CDATA[]]></Value>
+                                  <MotionPath ElementID="20220289" IsProperty="true">
+                                    <Value><![CDATA[]]></Value>
+                                    <Property ElementID="20220290" IsProperty="true">
+                                      <Value><![CDATA[alpha]]></Value>
+                                    </Property>
+                                    <ValueFrom ElementID="20220291" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                      <ValueObject ElementID="20220292" IsProperty="true">
+                                        <Value><![CDATA[]]></Value>
+                                        <Order ElementID="20220293" IsProperty="true">
+                                          <Value><![CDATA[0]]></Value>
+                                        </Order>
+                                        <Function ElementID="20220294" IsProperty="true">
+                                          <Value><![CDATA[]]></Value>
+                                          <Name ElementID="20220295" IsProperty="true">
+                                            <Value><![CDATA[Constant]]></Value>
+                                          </Name>
+                                          <Order ElementID="20220296" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </Order>
+                                          <ConstantValue ElementID="20220297" IsProperty="true">
+                                            <Value><![CDATA[0]]></Value>
+                                          </ConstantValue>
+                                          <Type ElementID="20220298" IsProperty="true">
+                                            <Value><![CDATA[Number]]></Value>
+                                          </Type>
+                                        </Function>
+                                      </ValueObject>
+                                    </ValueFrom>
+                                    <ValueTo ElementID="20220299" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                      <ValueObject ElementID="20220300" IsProperty="true">
+                                        <Value><![CDATA[]]></Value>
+                                        <Order ElementID="20220301" IsProperty="true">
+                                          <Value><![CDATA[0]]></Value>
+                                        </Order>
+                                        <Function ElementID="20220302" IsProperty="true">
+                                          <Value><![CDATA[]]></Value>
+                                          <Name ElementID="20220303" IsProperty="true">
+                                            <Value><![CDATA[Constant]]></Value>
+                                          </Name>
+                                          <Order ElementID="20220304" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </Order>
+                                          <ConstantValue ElementID="20220305" IsProperty="true">
+                                            <Value><![CDATA[1]]></Value>
+                                          </ConstantValue>
+                                          <Type ElementID="20220306" IsProperty="true">
+                                            <Value><![CDATA[Number]]></Value>
+                                          </Type>
+                                        </Function>
+                                      </ValueObject>
+                                    </ValueTo>
+                                    <ValueBy ElementID="20220307" IsProperty="true">
+                                      <Value><![CDATA[]]></Value>
+                                    </ValueBy>
+                                  </MotionPath>
+                                </MotionPaths>
+                              </Function>
+                            </Functions>
+                            <Execute ElementID="20220308" IsProperty="true">
+                              <Value><![CDATA[After Previous]]></Value>
+                            </Execute>
+                          </FunctionGroup>
+                        </FunctionGroups>
+                      </Case>
+                    </Cases>
+                  </EventHandler>
+                </Event>
+              </Events>
+            </PageAttributes>
+            <TextBox ElementID="6241338" IsProperty="false">
+              <Value><![CDATA[]]></Value>
+              <Size ElementID="12" IsProperty="true">
+                <Value><![CDATA[14]]></Value>
+              </Size>
+              <Italic ElementID="14" IsProperty="true">
+                <Value><![CDATA[false]]></Value>
+              </Italic>
+              <Underline ElementID="15" IsProperty="true">
+                <Value><![CDATA[false]]></Value>
+              </Underline>
+              <Color ElementID="16" IsProperty="true">
+                <Value><![CDATA[0x000000]]></Value>
+              </Color>
+              <Justify ElementID="17" IsProperty="true">
+                <Value><![CDATA[Left]]></Value>
+              </Justify>
+              <_URLThumbnail ElementID="18" IsProperty="true">
+                <Value><![CDATA[Content/TextBox.png]]></Value>
+              </_URLThumbnail>
+              <BorderColor ElementID="19" IsProperty="true">
+                <Value><![CDATA[0x000000]]></Value>
+              </BorderColor>
+              <BackgroundColor ElementID="21" IsProperty="true">
+                <Value><![CDATA[0xFFFFFF]]></Value>
+              </BackgroundColor>
+              <Editable ElementID="23" IsProperty="true">
+                <Value><![CDATA[false]]></Value>
+              </Editable>
+              <Selectable ElementID="24" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </Selectable>
+              <Bullet ElementID="25" IsProperty="true">
+                <Value><![CDATA[false]]></Value>
+              </Bullet>
+              <Multiline ElementID="26" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </Multiline>
+              <CorrectText ElementID="27" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </CorrectText>
+              <CheckCase ElementID="28" IsProperty="true">
+                <Value><![CDATA[false]]></Value>
+              </CheckCase>
+              <MaxChars ElementID="29" IsProperty="true">
+                <Value><![CDATA[0x7FFFFFFF]]></Value>
+              </MaxChars>
+              <Alignment ElementID="30" IsProperty="true">
+                <Value><![CDATA[left]]></Value>
+              </Alignment>
+              <Actions ElementID="31" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Actions>
+              <Margin ElementID="335" IsProperty="true">
+                <Value><![CDATA[0]]></Value>
+              </Margin>
+              <_URL ElementID="415" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </_URL>
+              <AssetID ElementID="416" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </AssetID>
+              <AssetRevisionID ElementID="417" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </AssetRevisionID>
+              <Events ElementID="594" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+                <Event ElementID="595" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="596" IsProperty="true">
+                    <Value><![CDATA[OnClick]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="597" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="598" IsProperty="true">
+                    <Value><![CDATA[OnDoubleClick]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="599" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="600" IsProperty="true">
+                    <Value><![CDATA[OnChange]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="601" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="602" IsProperty="true">
+                    <Value><![CDATA[OnFocus]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="603" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="604" IsProperty="true">
+                    <Value><![CDATA[OnFocusLost]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="605" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="606" IsProperty="true">
+                    <Value><![CDATA[OnMouseOut]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="607" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="608" IsProperty="true">
+                    <Value><![CDATA[OnMouseOver]]></Value>
+                  </Trigger>
+                </Event>
+              </Events>
+              <Focus ElementID="652" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Focus>
+              <MouseOver ElementID="653" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </MouseOver>
+              <Alpha ElementID="721" IsProperty="true">
+                <Value><![CDATA[1]]></Value>
+              </Alpha>
+              <Background ElementID="6241339" IsProperty="true">
+                <Value><![CDATA[false]]></Value>
+              </Background>
+              <Border ElementID="6241340" IsProperty="true">
+                <Value><![CDATA[false]]></Value>
+              </Border>
+              <FontColor ElementID="6241341" IsProperty="true">
+                <Value><![CDATA[0x61366E]]></Value>
+              </FontColor>
+              <FontSize ElementID="6241342" IsProperty="true">
+                <Value><![CDATA[24]]></Value>
+              </FontSize>
+              <Height ElementID="6241344" IsProperty="true">
+                <Value><![CDATA[35]]></Value>
+              </Height>
+              <Z ElementID="6241346" IsProperty="true">
+                <Value><![CDATA[2]]></Value>
+              </Z>
+              <Y ElementID="6241347" IsProperty="true">
+                <Value><![CDATA[50]]></Value>
+              </Y>
+              <X ElementID="6241348" IsProperty="true">
+                <Value><![CDATA[40]]></Value>
+              </X>
+              <Bold ElementID="6241349" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </Bold>
+              <Name ElementID="6241519" IsProperty="true">
+                <Value><![CDATA[Section Title]]></Value>
+              </Name>
+              <Font ElementID="6241520" IsProperty="true">
+                <Value><![CDATA[Arial]]></Value>
+              </Font>
+              <Visible ElementID="6241521" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </Visible>
+              <Text ElementID="19795192" IsProperty="true">
+                <Value><![CDATA[<HTML><BODY><P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#000000" LETTERSPACING="0" KERNING="1"><FONT SIZE="24" COLOR="#61366e"><B>CAPABILITIES AND LIMITATIONS</B></FONT></FONT></P></BODY></HTML>]]></Value>
+              </Text>
+              <Width ElementID="20216494" IsProperty="true">
+                <Value><![CDATA[391]]></Value>
+              </Width>
+            </TextBox>
+            <Image ElementID="6241350" IsProperty="false">
+              <Value><![CDATA[]]></Value>
+              <Desc ElementID="152" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Desc>
+              <Actions ElementID="153" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Actions>
+              <Description ElementID="267" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Description>
+              <IsAutoUpdate ElementID="351" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </IsAutoUpdate>
+              <Visible ElementID="423" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </Visible>
+              <Events ElementID="550" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+                <Event ElementID="551" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="552" IsProperty="true">
+                    <Value><![CDATA[OnMouseOver]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="553" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="554" IsProperty="true">
+                    <Value><![CDATA[OnMouseOut]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="555" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="556" IsProperty="true">
+                    <Value><![CDATA[OnClick]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="557" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="558" IsProperty="true">
+                    <Value><![CDATA[OnDoubleClick]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="559" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="560" IsProperty="true">
+                    <Value><![CDATA[OnFocus]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="561" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="562" IsProperty="true">
+                    <Value><![CDATA[OnFocusLost]]></Value>
+                  </Trigger>
+                </Event>
+              </Events>
+              <Focus ElementID="656" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Focus>
+              <MouseOver ElementID="657" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </MouseOver>
+              <Alpha ElementID="725" IsProperty="true">
+                <Value><![CDATA[1]]></Value>
+              </Alpha>
+              <_URL ElementID="6241351" IsProperty="true">
+                <Value><![CDATA[Content/HexBG1280x6442x_2018111511341730.jpg]]></Value>
+              </_URL>
+              <Height ElementID="6241352" IsProperty="true">
+                <Value><![CDATA[645]]></Value>
+              </Height>
+              <Width ElementID="6241353" IsProperty="true">
+                <Value><![CDATA[1281]]></Value>
+              </Width>
+              <Y ElementID="6241354" IsProperty="true">
+                <Value><![CDATA[-1]]></Value>
+              </Y>
+              <X ElementID="6241355" IsProperty="true">
+                <Value><![CDATA[-1]]></Value>
+              </X>
+              <Name ElementID="6241356" IsProperty="true">
+                <Value><![CDATA[Hex Background]]></Value>
+              </Name>
+              <AssetID ElementID="6241357" IsProperty="true">
+                <Value><![CDATA[8560]]></Value>
+              </AssetID>
+              <AssetRevisionID ElementID="6241358" IsProperty="true">
+                <Value><![CDATA[1]]></Value>
+              </AssetRevisionID>
+              <_URLThumbnail ElementID="6241359" IsProperty="true">
+                <Value><![CDATA[Content/Thumb_HexBG1280x6442x_2018111511341713.jpg]]></Value>
+              </_URLThumbnail>
+              <Z ElementID="6241360" IsProperty="true">
+                <Value><![CDATA[0]]></Value>
+              </Z>
+            </Image>
+            <Image ElementID="6241690" IsProperty="false">
+              <Value><![CDATA[]]></Value>
+              <Desc ElementID="152" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Desc>
+              <Actions ElementID="153" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Actions>
+              <Description ElementID="267" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Description>
+              <IsAutoUpdate ElementID="351" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </IsAutoUpdate>
+              <Visible ElementID="423" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </Visible>
+              <Events ElementID="550" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+                <Event ElementID="551" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="552" IsProperty="true">
+                    <Value><![CDATA[OnMouseOver]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="553" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="554" IsProperty="true">
+                    <Value><![CDATA[OnMouseOut]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="555" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="556" IsProperty="true">
+                    <Value><![CDATA[OnClick]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="557" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="558" IsProperty="true">
+                    <Value><![CDATA[OnDoubleClick]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="559" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="560" IsProperty="true">
+                    <Value><![CDATA[OnFocus]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="561" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="562" IsProperty="true">
+                    <Value><![CDATA[OnFocusLost]]></Value>
+                  </Trigger>
+                </Event>
+              </Events>
+              <Focus ElementID="656" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Focus>
+              <MouseOver ElementID="657" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </MouseOver>
+              <Alpha ElementID="725" IsProperty="true">
+                <Value><![CDATA[1]]></Value>
+              </Alpha>
+              <_URL ElementID="6241691" IsProperty="true">
+                <Value><![CDATA[Content/1x1_2019130155535360.png]]></Value>
+              </_URL>
+              <Height ElementID="6241692" IsProperty="true">
+                <Value><![CDATA[1]]></Value>
+              </Height>
+              <Z ElementID="6241694" IsProperty="true">
+                <Value><![CDATA[3]]></Value>
+              </Z>
+              <Y ElementID="6241695" IsProperty="true">
+                <Value><![CDATA[37]]></Value>
+              </Y>
+              <X ElementID="6241696" IsProperty="true">
+                <Value><![CDATA[40]]></Value>
+              </X>
+              <Name ElementID="6241697" IsProperty="true">
+                <Value><![CDATA[Header line]]></Value>
+              </Name>
+              <AssetID ElementID="6241698" IsProperty="true">
+                <Value><![CDATA[9665]]></Value>
+              </AssetID>
+              <AssetRevisionID ElementID="6241699" IsProperty="true">
+                <Value><![CDATA[1]]></Value>
+              </AssetRevisionID>
+              <_URLThumbnail ElementID="6241700" IsProperty="true">
+                <Value><![CDATA[Content/Thumb_1x1_2019130155535377.png]]></Value>
+              </_URLThumbnail>
+              <Width ElementID="20216495" IsProperty="true">
+                <Value><![CDATA[392]]></Value>
+              </Width>
+            </Image>
+            <Image ElementID="6241701" IsProperty="false">
+              <Value><![CDATA[]]></Value>
+              <Desc ElementID="152" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Desc>
+              <Actions ElementID="153" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Actions>
+              <Description ElementID="267" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Description>
+              <IsAutoUpdate ElementID="351" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </IsAutoUpdate>
+              <Visible ElementID="423" IsProperty="true">
+                <Value><![CDATA[true]]></Value>
+              </Visible>
+              <Events ElementID="550" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+                <Event ElementID="551" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="552" IsProperty="true">
+                    <Value><![CDATA[OnMouseOver]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="553" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="554" IsProperty="true">
+                    <Value><![CDATA[OnMouseOut]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="555" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="556" IsProperty="true">
+                    <Value><![CDATA[OnClick]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="557" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="558" IsProperty="true">
+                    <Value><![CDATA[OnDoubleClick]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="559" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="560" IsProperty="true">
+                    <Value><![CDATA[OnFocus]]></Value>
+                  </Trigger>
+                </Event>
+                <Event ElementID="561" IsProperty="true">
+                  <Value><![CDATA[]]></Value>
+                  <Trigger ElementID="562" IsProperty="true">
+                    <Value><![CDATA[OnFocusLost]]></Value>
+                  </Trigger>
+                </Event>
+              </Events>
+              <Focus ElementID="656" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </Focus>
+              <MouseOver ElementID="657" IsProperty="true">
+                <Value><![CDATA[]]></Value>
+              </MouseOver>
+              <Alpha ElementID="725" IsProperty="true">
+                <Value><![CDATA[1]]></Value>
+              </Alpha>
+              <_URL ElementID="6241702" IsProperty="true">
+                <Value><![CDATA[Content/block_201913015552193.png]]></Value>
+              </_URL>
+              <Height ElementID="6241703" IsProperty="true">
+                <Value><![CDATA[3]]></Value>
+              </Height>
+              <Width ElementID="6241704" IsProperty="true">
+                <Value><![CDATA[45]]></Value>
+              </Width>
+              <Z ElementID="6241705" IsProperty="true">
+                <Value><![CDATA[4]]></Value>
+              </Z>
+              <Y ElementID="6241706" IsProperty="true">
+                <Value><![CDATA[35]]></Value>
+              </Y>
+              <X ElementID="6241707" IsProperty="true">
+                <Value><![CDATA[40]]></Value>
+              </X>
+              <Name ElementID="6241708" IsProperty="true">
+                <Value><![CDATA[Header Block]]></Value>
+              </Name>
+              <AssetID ElementID="6241709" IsProperty="true">
+                <Value><![CDATA[9664]]></Value>
+              </AssetID>
+              <AssetRevisionID ElementID="6241710" IsProperty="true">
+                <Value><![CDATA[1]]></Value>
+              </AssetRevisionID>
+              <_URLThumbnail ElementID="6241711" IsProperty="true">
+                <Value><![CDATA[Content/Thumb_block_2019130155521117.png]]></Value>
+              </_URLThumbnail>
+            </Image>
+          </ElementContainer>
+        </Layout>
+      </Page>
+    </Response>
+  </Responses>
+</ReviewerResponse>

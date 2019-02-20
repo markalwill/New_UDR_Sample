@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ReviewerResponse>
+  <RequestProcessStatus>Succeed</RequestProcessStatus>
+  <Responses>
+    <Response Name="LoadUnitType">
+      <UnitType UnitTypeID="1" UnitTypeName="Module" UnitTypeDesc="Module" UnitLevel="1" />
+      <UnitType UnitTypeID="2" UnitTypeName="TLO" UnitTypeDesc="Terminal Learning Objective" UnitLevel="2" />
+      <UnitType UnitTypeID="3" UnitTypeName="ELO" UnitTypeDesc="Enabling Learning Objective" UnitLevel="3" />
+      <UnitType UnitTypeID="4" UnitTypeName="Learning Step" UnitTypeDesc="Learning Step" UnitLevel="4" />
+      <UnitType UnitTypeID="5" UnitTypeName="Page" UnitTypeDesc="Page Object" UnitLevel="5" />
+    </Response>
+  </Responses>
+</ReviewerResponse>

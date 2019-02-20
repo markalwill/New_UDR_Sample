@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<PageEditorResponse>
+  <RequestProcessStatus>Succeed</RequestProcessStatus>
+  <Responses>
+    <Response Name="LoadEditScreen">
+      <Page PageID="926" TemplateID="8" >
+        <Layout>
+          <ElementContainer IsProperty="false">
+            <ElementID>157000</ElementID>
+            <ParentElementID />
+            <IsTemplate>true</IsTemplate>
+            <TextWindow IsProperty="false">
+              <ElementID>157001</ElementID>
+              <ParentElementID>157000</ParentElementID>
+              <IsTemplate>true</IsTemplate>
+              <X IsProperty="true">
+                <ElementID>157002</ElementID>
+                <ParentElementID>157001</ParentElementID>
+                <Value><![CDATA[267]]></Value>
+                <IsTemplate>true</IsTemplate>
+              </X>
+              <Y IsProperty="true">
+                <ElementID>157003</ElementID>
+                <ParentElementID>157001</ParentElementID>
+                <Value><![CDATA[211]]></Value>
+                <IsTemplate>true</IsTemplate>
+              </Y>
+              <Width IsProperty="true">
+                <ElementID>157004</ElementID>
+                <ParentElementID>157001</ParentElementID>
+                <Value><![CDATA[520]]></Value>
+                <IsTemplate>true</IsTemplate>
+              </Width>
+              <Height IsProperty="true">
+                <ElementID>157005</ElementID>
+                <ParentElementID>157001</ParentElementID>
+                <Value><![CDATA[88]]></Value>
+                <IsTemplate>true</IsTemplate>
+              </Height>
+            </TextWindow>
+            <TextWindow IsProperty="false">
+              <ElementID>157006</ElementID>
+              <ParentElementID>157000</ParentElementID>
+              <IsTemplate>true</IsTemplate>
+              <X IsProperty="true">
+                <ElementID>157007</ElementID>
+                <ParentElementID>157006</ParentElementID>
+                <Value><![CDATA[267]]></Value>
+                <IsTemplate>true</IsTemplate>
+              </X>
+              <Y IsProperty="true">
+                <ElementID>157008</ElementID>
+                <ParentElementID>157006</ParentElementID>
+                <Value><![CDATA[348]]></Value>
+                <IsTemplate>true</IsTemplate>
+              </Y>
+              <Width IsProperty="true">
+                <ElementID>157009</ElementID>
+                <ParentElementID>157006</ParentElementID>
+                <Value><![CDATA[520]]></Value>
+                <IsTemplate>true</IsTemplate>
+              </Width>
+              <Height IsProperty="true">
+                <ElementID>157010</ElementID>
+                <ParentElementID>157006</ParentElementID>
+                <Value><![CDATA[37]]></Value>
+                <IsTemplate>true</IsTemplate>
+              </Height>
+            </TextWindow>
+          </ElementContainer>
+          <Image IsProperty="false">
+            <ElementID>157011</ElementID>
+            <ParentElementID />
+            <IsTemplate>true</IsTemplate>
+            <Name IsProperty="true">
+              <ElementID>157012</ElementID>
+              <ParentElementID>157011</ParentElementID>
+              <IsTemplate>true</IsTemplate>
+            </Name>
+            <Desc IsProperty="true">
+              <ElementID>157013</ElementID>
+              <ParentElementID>157011</ParentElementID>
+              <IsTemplate>true</IsTemplate>
+            </Desc>
+            <X IsProperty="true">
+              <ElementID>157014</ElementID>
+              <ParentElementID>157011</ParentElementID>
+              <Value><![CDATA[16]]></Value>
+              <IsTemplate>true</IsTemplate>
+            </X>
+            <Y IsProperty="true">
+              <ElementID>157015</ElementID>
+              <ParentElementID>157011</ParentElementID>
+              <Value><![CDATA[240]]></Value>
+              <IsTemplate>true</IsTemplate>
+            </Y>
+            <Z IsProperty="true">
+              <ElementID>157016</ElementID>
+              <ParentElementID>157011</ParentElementID>
+              <IsTemplate>true</IsTemplate>
+            </Z>
+            <Width IsProperty="true">
+              <ElementID>157017</ElementID>
+              <ParentElementID>157011</ParentElementID>
+              <Value><![CDATA[198]]></Value>
+              <IsTemplate>true</IsTemplate>
+            </Width>
+            <Height IsProperty="true">
+              <ElementID>157018</ElementID>
+              <ParentElementID>157011</ParentElementID>
+              <Value><![CDATA[149]]></Value>
+              <IsTemplate>true</IsTemplate>
+            </Height>
+            <_URL IsProperty="true">
+              <ElementID>157019</ElementID>
+              <ParentElementID>157011</ParentElementID>
+              <IsTemplate>true</IsTemplate>
+            </_URL>
+            <_URLThumbnail IsProperty="true">
+              <ElementID>157020</ElementID>
+              <ParentElementID>157011</ParentElementID>
+              <IsTemplate>true</IsTemplate>
+            </_URLThumbnail>
+          </Image>
+        </Layout>
+        <Content>
+          <Text IsProperty="true">
+            <ElementID>173737</ElementID>
+            <ParentElementID>157001</ParentElementID>
+            <Value><![CDATA[]]></Value>
+            <IsTemplate>false</IsTemplate>
+          </Text>
+          <Font IsProperty="true">
+            <ElementID>173738</ElementID>
+            <ParentElementID>157001</ParentElementID>
+            <Value><![CDATA[Arial]]></Value>
+            <IsTemplate>false</IsTemplate>
+          </Font>
+          <FontSize IsProperty="true">
+            <ElementID>173739</ElementID>
+            <ParentElementID>157001</ParentElementID>
+            <Value><![CDATA[12]]></Value>
+            <IsTemplate>false</IsTemplate>
+          </FontSize>
+          <FontColor IsProperty="true">
+            <ElementID>173740</ElementID>
+            <ParentElementID>157001</ParentElementID>
+            <Value><![CDATA[0x000000]]></Value>
+            <IsTemplate>false</IsTemplate>
+          </FontColor>
+          <Z IsProperty="true">
+            <ElementID>173741</ElementID>
+            <ParentElementID>157001</ParentElementID>
+            <Value><![CDATA[0]]></Value>
+            <IsTemplate>false</IsTemplate>
+          </Z>
+          <Text IsProperty="true">
+            <ElementID>173742</ElementID>
+            <ParentElementID>157006</ParentElementID>
+            <Value><![CDATA[]]></Value>
+            <IsTemplate>false</IsTemplate>
+          </Text>
+          <Font IsProperty="true">
+            <ElementID>173743</ElementID>
+            <ParentElementID>157006</ParentElementID>
+            <Value><![CDATA[Arial]]></Value>
+            <IsTemplate>false</IsTemplate>
+          </Font>
+          <FontSize IsProperty="true">
+            <ElementID>173744</ElementID>
+            <ParentElementID>157006</ParentElementID>
+            <Value><![CDATA[12]]></Value>
+            <IsTemplate>false</IsTemplate>
+          </FontSize>
+          <FontColor IsProperty="true">
+            <ElementID>173745</ElementID>
+            <ParentElementID>157006</ParentElementID>
+            <Value><![CDATA[0x000000]]></Value>
+            <IsTemplate>false</IsTemplate>
+          </FontColor>
+          <Z IsProperty="true">
+            <ElementID>173746</ElementID>
+            <ParentElementID>157006</ParentElementID>
+            <Value><![CDATA[0]]></Value>
+            <IsTemplate>false</IsTemplate>
+          </Z>
+        </Content>
+      </Page>
+    </Response>
+  </Responses>
+</PageEditorResponse>

@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server" >
+    <meta http-equiv="X-UA-Compatible" content="IE=10"/>
+    <title>DIF</title>
+    <style type="text/css">
+		body {
+			margin-left: 0;
+			margin-top: 0;
+		}
+	</style>
+	<script type="text/javascript" src="appFrame.js"></script>
+	<script type="text/javascript" src="SCORM_API_DIF.js"></script>
+</head>
+<body >
+    <form id="form1" runat="server" >
+    <div id="holder" style="text-align:left">
+    </div>
+
+    <iframe id="appFrame" style="position:absolute; top:0px; left:0px; width:0px; height:0px; visibility:hidden" frameborder="0"></iframe>
+    </form>
+    <script type="text/javascript">
+
+        //The following 2 variables will be set during packaging process
+        //DO NOT TOUCH THESE 2 LINES
+        var playerWidth = $playerWidth$;
+        var playerHeight = $playerHeight$;
+
+
+        var playerBaseSWF = "assets/base.swf"
+        var playerOfflineBaseSWF = "assets/base-offline.swf"
+
+        function init(sessionID, unitID, userName, caller, playerWidth, playerHeight) {
+            var swf = playerBaseSWF;
+            var loc = window.location.href;
+
+            // Not sure under what circumstance window.location.href would be null, but there may have been a scenario with Blackboard where it was happening.
+            // Couldn't reproduce the issue to confirm, but adding the check to avoid the Javascript error.  If this scenario can happen when running offline, 
+            // may need to find another approach to determine whether running online or not.
+            if (loc !== null) {
+                if (loc.substring(0, 4) == "file") {
+                    swf = playerOfflineBaseSWF
+                }
+            }
+            
+            var theHTML = "<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0' width='" + playerWidth + "' height='" + playerHeight + "' id='Previewer' align='middle'>";
+            theHTML += "<param id='FlashVarsLabel'  name='FlashVars' value='sessionID=" + sessionID + "&UnitID=" + unitID + "&uName=" + userName + "&Caller=" + caller + "&playerWidth=" + playerWidth + "&playerHeight=" + playerHeight + "' />";
+            theHTML += "<param name='allowScriptAccess' value='sameDomain' />";
+            theHTML += "<param name='allowFullScreen' value='false' />";
+            theHTML += "<param name='movie' value='"+swf+"' />";
+            theHTML += "<param name='quality' value='high' />";
+            theHTML += "<param name='bgcolor' value='#ffffff' />";
+            theHTML += "<embed src='" + swf + "' FlashVars='sessionID=" + sessionID + "&UnitID=" + unitID + "&uName=" + userName + "&Caller=" + caller + "&playerWidth=" + playerWidth + "&playerHeight=" + playerHeight + "' quality='high' bgcolor='#ffffff' width='" + playerWidth + "' height='" + playerHeight + "' name='Previewer' align='middle' allowScriptAccess='sameDomain' allowFullScreen='false' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' />";
+            theHTML += "</object>";
+            var theRef = document.getElementById("holder");
+            theRef.innerHTML = theHTML;
+    	}
+
+	    
+		function closeTraining() {
+			window.close();
+		}
+
+		function isEIAvailable() {
+			return true;
+		}
+
+		init("", "", "", "Player", playerWidth, playerHeight);
+		
+    </script>
+</body>
+</html>

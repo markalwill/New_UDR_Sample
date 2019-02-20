@@ -1,0 +1,142 @@
+<!-- HTML shell for NGRAIN viewer - updated for 5.0 -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>NGRAIN Viewer</title>
+    <!-- NOTE - MobilizerInitialization.js may be specific for to the CH146 3ko file that was used to test this.  May not be generally needed.  Waiting for info from nGRAIN. -->
+	<script type="text/javascript" src="MobilizerInitialization.js" language="javascript"></script>
+	<script type="text/javascript" language="javascript">
+        var objectName = parent.globalSourceFile;
+        var objectheight = parent.globalHeight;
+        var objectwidth = parent.globalWidth;
+
+        // NGRAIN Viewer control size parameters
+		var ViewerWidth = objectwidth;
+		var ViewerHeight = objectheight;
+
+		// Resize NGRAIN Viewer to fit within available window space in InternetExplorer
+		var ResizeOn = false;
+
+		// 3KO file and configuration to be loaded
+        var KOFilename = objectName;
+        // TODO: this may need to be parameter driven in the future since some 3ko files have something other than a "Default" config
+        var KOConfig = "Default";
+
+		var TaskName = "";
+
+		function vWidth()
+		{
+			var w = ViewerWidth;
+			if (ResizeOn)
+			{
+				w = ('innerWidth' in window? window.innerWidth :
+						document.compatMode !== 'BackCompat'? document.documentElement.offsetWidth :
+						document.body.offsetWidth) - 45;
+				if (w<=0)
+				{
+					w = 1;
+				}
+			}
+			
+			return w;
+		}
+		
+		function vHeight()
+		{
+			var h = ViewerHeight;
+			if (ResizeOn)
+			{
+				h = ('innerHeight' in window? window.innerHeight :
+						document.compatMode !== 'BackCompat'? document.documentElement.offsetHeight :
+						document.body.offsetHeight) - 35;
+			 
+				if (h<=0)
+				{
+					h = 1;
+				}
+			}
+			
+			return h;
+		}
+		
+		function Resize() 
+		{
+			if (ResizeOn)
+			{
+				if (CheckViewer())
+				{
+					NGRAINViewer.width = vWidth();
+					NGRAINViewer.height = vHeight();
+				}
+			}
+		}		
+
+	function CheckBrowser()
+	{
+		// verify that we're running in an IE browser
+		var browser=navigator.appName;
+		if (browser=="Microsoft Internet Explorer")
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+	
+	function CheckViewer()
+	{
+		// verify that we were able to create an instance of NGRAIN Viewer
+		if (NGRAINViewer.Version===undefined)
+		{
+			return false;
+		}
+		else
+		{
+			return true;
+		}
+	}
+	
+	function CreateViewer()
+	{
+		// First verify we're running in IE
+		if (CheckBrowser())
+		{
+			// create the Viewer control object in the page
+			CreateControl('CLSID:8B7B6259-6D20-4c1e-A4F6-DF7B3DBC6E9B', 'NGRAINViewer', vWidth(), vHeight());
+			
+			// Check to see if we were successful in creating the viewer object
+			if (CheckViewer())
+			{
+				// Set the filename and configuration for Viewer which will load the file
+				NGRAINViewer.FileName = KOFilename;
+				NGRAINViewer.CurrentConfiguration = KOConfig;
+
+				// if the task name is properly defined, then autostart the task
+				if(TaskName != null && TaskName != "")
+				{
+					// ensure task panel is visible
+					NGRAINViewer.UserInterfaceController.TaskExplorerVisible = true;
+					NGRAINViewer.UserInterfaceController.TaskBottomBarVisible = true;
+
+					// start the task
+					NGRAINViewer.TaskController.StartTask(TaskName);
+				}
+			}
+			else
+			{
+				// We were not successful in creating an NGRAIN Viewer object
+				alert('This page requires installation of NGRAIN Viewer. If NGRAIN Viewer is installed, check your browser security settings or contact your IT department.');
+			}
+		}
+		else
+		{
+			// This page is not being viewed within Internet Explorer which is required for NGRAIN Viewer.
+			alert('To view this page use Internet Explorer 10.0 or later.');
+		}
+	}
+	</script>
+</head>
+<body onresize="Resize()" onload="CreateViewer()"></body>
+</html>
+

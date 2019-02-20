@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <Course>
+    <CourseDir><![CDATA[CourseDirectory]]></CourseDir>
+    <CourseTOC>CourseTOC.xml</CourseTOC>
+    <CourseUnitType>CourseUnitType.xml</CourseUnitType>
+    <PageDir>PageDir.xml</PageDir>
+    <ReferenceDir>ReferenceDir.xml</ReferenceDir>
+    <Variables>Variables.xml</Variables>
+    <InitTransaction>InitTransaction.xml</InitTransaction>
+  </Course>
+  <Pages><![CDATA[Pages]]></Pages>
+  <Content><![CDATA[Content]]></Content>
+</Manifest>
+
+
